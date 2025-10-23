@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- end head.html -->
+
+
+<link rel="stylesheet" href="/econ/common/styles/safari07.css" type="text/css" />
+
+<title>
+Stefano DellaVigna's Home Page
+</title>
+<!-- begin middle1.html -->
+<!-- Various date and time variables for general use.
+     Revised: GAP 18-Nov-2005
+              GAP 24-May-2006 -->
+
+
+
+
+
+
+
+
+<!-- Note: day number has leading zero -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start scripts -->
+
+<script language="javascript" type="text/javascript"
+        src="/econ/common/js/generate_address.js">
+      </script>
+
+<script language="javascript" type="text/javascript"
+        src="/econ/common/js/generate_address_any.js">
+      </script>
+
+<script language="javascript" type="text/javascript"
+        src="/econ/common/js/cleartext.js">
+      </script>
+
+<script language="javascript" type="text/JavaScript"
+        src="/econ/common/js/linktitles.js">
+      </script>
+
+<!-- End scripts -->
+</head>
+
+<body>
+    <a name="top"></a> <!-- GAP local page anchor for navigating to the top -->
+
+<div id="Content">
+
+<div id="Header">
+<a href="/econ/index.shtml"><img alt="" src="/econ/common/images/small_title2.gif" height="40" width="188" align="left" title="Department of Economics" border="0" class="logo" /></a>
+
+
+<ul id="Keylinks">
+<li><a href="http://www.berkeley.edu">University of California, Berkeley</a></li>
+<li><a href="http://ls.berkeley.edu">College of Letters and Science</a></li>
+</ul>
+
+<div id="name">Department of Economics</div>
+
+</div> <!-- Header -->
+
+
+<!-- Common main menu -->
+
+<div id="menubackground">
+<ul id="menulist">
+<li class="homemenucolors"><a href="/econ/index.shtml">&nbsp;&nbsp;Home </a></li><li class="aboutusmenucolors"><a href="/econ/about.shtml"> About&nbsp;Us </a></li><li class="facultymenucolors"><a href="/econ/faculty/facmaster_a.shtml"> Faculty </a></li><li class="ugradmenucolors"><a href="/econ/ugrad/ugrad.shtml"> Undergraduate </a></li><li class="gradmenucolors"><a href="https://www.econ.berkeley.edu/grad"> Graduate </a></li><li class="coursesmenucolors"><a href="/econ/courses.shtml"> Courses </a></li><li class="resourcesmenucolors"><a href="/econ/resources.shtml"> Resources </a></li>
+</ul> 
+</div> <!-- menubackground -->
+
+<!-- end topsection.shtml -->
+
+
+
+
+<div id="rightcolumn">
+<div class="fullpage">
+		<a name="startofcontent" id="startofcontent" tabindex="1"></a> <!-- Section 508 compliance. Start of non-repetitive content. -->
+<table width="690" align="center" border="0" cellpadding="5" cellspacing="5" summary="Body content alignment table.">
+<tr>
+<td valign="top">
+<!-- end middle1.html -->
+
+
+
+
+   <!-- ENTER MAIN PAGE CONTENT HERE -->
+
+   <table summary="faculty page" width="700" border="0" align=
+    "center" cellpadding="10">
+
+      <tr>
+        <td>
+<table summary="contents" width="600" align="center" border="0">
+
+<tr>
+<td>
+
+<p><font size="-1"><a href="../index.shtml"> Back to Stefano DellaVigna Homepage</a></font></p>
+
+<p><b>Data for the paper <a href="../wp/foxvote06-08-18.pdf">The Fox News Effect: Media Bias and Voting</a>
+with Ethan Kaplan</b></p>
+
+
+<ul>
+<a href="FoxNewsDataQJEMay07.zip">Complete Data Set</a> [Zip, 11.3 MB]<br /><br />
+
+
+<a href="FoxNewsreadme.txt">readme.txt</a><br />
+<a href="FoxNewsDataQJEMay07.dta.Z">Fox News Data QJE May 07 Data</a> [.dta.Z]<br />
+<a href="FoxNewsPrepareQJEMay07.do">FoxNewsPrepareQJEMay07.do</a> [.do]<br />
+<a href="FoxNewsFinalDataQJE.dta.Z">Fox News Final Data QJE Data</a> [.dta.Z]<br />
+<a href="FoxNewsRegsQJEMay07.do">FoxNewsRegsQJEMay07.do</a> [.do]<br />
+</ul>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<!-- KEEP MAIN PAGE CONTENT ABOVE THIS LINE -->
+<!-- begin bottom.html -->
+</td>
+</tr>	
+</table>
+</div> <!--fullpage -->
+</div> <!-- rightcolumn -->
+<!-- begin footer.shtml -->
+
+
+<div id="footer">
+
+508-1 Evans Hall #3880, Berkeley, California 94720-3880 <br />
+
+Tel: (510) 642-0822 / Fax: (510) 642-6615 /
+E-mail: <script language="javascript" type="text/javascript">
+  <!--
+    generate_address_any( "econdept", "berkeley.edu" );
+  //-->
+</script>
+<noscript>
+<!-- An alternate method of sending mail to this address -->
+<!-- for non-JavaScript enabled browsers can go here -->
+[Non-JavaScript browser: use econdept at berkeley.edu]
+</noscript><br /><br />
+
+
+<a href="http://technology.berkeley.edu/privacy/privacy-statement.html">UCB Privacy Statement</a> |
+<a href="/econ/disclaimer.shtml">Disclaimer</a> 
+
+
+
+<br />
+    
+&#169;
+    
+1994-2025 University of California Regents
+<br />
+
+For website updates, please contact
+<script language="javascript" type="text/javascript">
+  <!--
+    generate_address_any( "econ-web", "lscr.ls.berkeley.edu" );
+  //-->
+</script>
+<noscript>
+<!-- An alternate method of sending mail to this address -->
+<!-- for non-JavaScript enabled browsers can go here -->
+[Non-JavaScript browser: use econ-web at lscr.ls.berkeley.edu]
+</noscript>
+
+<br />
+
+</div> <!-- content -->
+
+<!-- end footer.shtml -->
+
+</body>
+</html>
+<!-- end bottom.html -->
+
+

@@ -1,11 +1,11 @@
 relativeURLs = true
-title = "Gautam Rao"
+title = "Stefano DellaVigna"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Associate Professor of Business and Economics, University of California, Berkeley"
-    logo = "Rao_headshot_berkeley.jpg" 
+    shortbio = "Daniel E. Koshland, Sr. Distinguished Professor of Economics and Professor of Business Administration, University of California, Berkeley"
+    logo = "images/stefano-dellavigna.jpg"
     
