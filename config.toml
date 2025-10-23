@@ -1,4 +1,5 @@
-relativeURLs = true
+baseURL = "https://rohanjha123.github.io/sdellavi.github.io/"
+canonifyURLs = true
 title = "Stefano DellaVigna"
 theme = "academimal"
 sectionPagesMenu = "main"
