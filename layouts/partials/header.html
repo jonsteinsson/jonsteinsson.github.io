@@ -5,8 +5,13 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ .Site.Title }} | {{ .Title }}</title>
-        <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
-        <link rel="shortcut icon" type="image/x-icon" href="{{ "images/favicon.ico" | absURL }}">
+        {{ $stylesheet := ("/css/style.css" | relURL) }}
+        <link rel="stylesheet" href="{{ $stylesheet }}">
+        {{ $favicon := ("/images/favicon.ico" | relURL) }}
+        {{ with .Site.Params.faviconVersion }}
+        {{ $favicon = printf "%s?v=%s" $favicon . }}
+        {{ end }}
+        <link rel="shortcut icon" type="image/x-icon" href="{{ $favicon }}">
     </head>
     <body>
         <div class="wrapper">
@@ -19,7 +24,7 @@
 
                 {{/*
                 <p class="contactinfo">
-                <img src="{{ "icons/mail-symbol.svg" | absURL }}" class="octicons">
+                <img src="{{ "/icons/mail-symbol.svg" | relURL }}" class="octicons">
                 mailaddr@domain.edu
                 </p>
                 */}}
@@ -30,7 +35,7 @@
 
                 <!-- begin photo -->
                 {{ with .Site.Params.logo }}
-                <img src="{{ . | absURL }}" alt="Logo" />
+                <img src="{{ . | relURL }}" alt="Logo" />
                 {{ end }}
                 <!-- end photo -->
 
