@@ -7,9 +7,9 @@
         <title>{{ .Site.Title }} | {{ .Title }}</title>
         {{ $stylesheet := ("/css/style.css" | relURL) }}
         <link rel="stylesheet" href="{{ $stylesheet }}">
-        {{ $favicon := ("/images/favicon.ico" | relURL) }}
-        {{ with .Site.Params.faviconVersion }}
-        {{ $favicon = printf "%s?v=%s" $favicon . }}
+        {{ $favicon := ("/images/favicon.ico" | relURL) -}}
+        {{ with .Site.Params.faviconVersion -}}
+        {{ $favicon = printf "%s?v=%s" $favicon . -}}
         {{ end }}
         <link rel="shortcut icon" type="image/x-icon" href="{{ $favicon }}">
     </head>
@@ -35,7 +35,15 @@
 
                 <!-- begin photo -->
                 {{ with .Site.Params.logo }}
-                <img src="{{ . | relURL }}" alt="Logo" />
+                {{ $logoPath := . }}
+                {{ if not (hasPrefix $logoPath "/") }}
+                {{ $logoPath = printf "/%s" $logoPath }}
+                {{ end }}
+                {{ $logo := ($logoPath | relURL) }}
+                {{ with $.Site.Params.logoVersion }}
+                {{ $logo = printf "%s?v=%s" $logo . }}
+                {{ end }}
+                <img src="{{ $logo }}" alt="Professor Stefano DellaVigna smiling" />
                 {{ end }}
                 <!-- end photo -->
 
