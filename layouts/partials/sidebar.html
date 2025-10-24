@@ -1,7 +1,4 @@
 <p class="contactinfo"><a href="#bio">Bio</a></p>
-{{ with .GetPage "/sections/contact.md" }}
-<p class="contactinfo"><a href="#contact">Contact</a></p>
-{{ end }}
 {{ with .Site.Data.working_papers }}
 <p class="contactinfo"><a href="#workingpapers">Working Papers</a></p>
 {{ end }}
@@ -10,7 +7,4 @@
 {{ end }}
 {{ with .Site.Data.older_papers }}
 <p class="contactinfo"><a href="#older_papers">Older Papers</a></p>
-{{ end }}
-{{ with .GetPage "/sections/teaching.md" }}
-<p class="contactinfo"><a href="#teaching">Teaching</a></p>
 {{ end }}
