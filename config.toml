@@ -9,6 +9,6 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 [params]
     shortbio = "Daniel E. Koshland, Sr. Distinguished Professor of Economics and Professor of Business Administration, University of California, Berkeley <br> <br> Chair of the Economics Department"
     logo = "images/stefano-dellavigna.jpg"
-    faviconVersion = "2"
+    faviconVersion = "3"
     logoVersion = "1"
     
