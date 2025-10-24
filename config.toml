@@ -1,4 +1,4 @@
-baseURL = "https://rohanjha123.github.io/sdellavi.github.io/"
+baseURL = "https://sdellavi.github.io/"
 relativeURLs = true
 title = "Stefano DellaVigna"
 theme = "academimal"
