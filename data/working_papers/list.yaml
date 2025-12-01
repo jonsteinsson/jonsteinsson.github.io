@@ -1,4 +1,10 @@
 works:
+- title: "Forecasting Social Science: Evidence from 100 Projects"
+  pdflink: "/pdf/DellaVignaVivaltSSPP_paper.pdf"
+  coauthors: Eva Vivalt
+  book: November 2025
+  abstract: >
+    Forecasts about research findings affect critical scientific decisions, such as what treatments an R&D lab invests in, or which papers a researcher decides to write. But what do we know about the accuracy of these forecasts? We analyze a unique data set of all 100 projects posted on the Social Science Prediction Platform from 2020 to 2024, which received 53,298 forecasts in total, including 66 projects for which we also have results. We show that forecasters, on average, over-estimate treatment effects; however, the average forecast is quite predictive of the actual treatment effect. We also examine differences in accuracy across forecasters. Academics have a slightly higher accuracy than non-academics, but expertise in a field does not increase accuracy. A panel of motivated repeat forecasters has higher accuracy, but this does not extend more broadly to all repeat forecasters. Confidence in the accuracy of one’s forecasts is perversely associated with lower accuracy. We also document substantial cross-study correlation in accuracy among forecasters and identify a group of "superforecasters". Finally, we relate our findings to results in the literature as well as to expert forecasts.
 - title: Using Multiple Outcomes to Adjust Standard Errors for Spatial Correlation
   pdflink: "/pdf/tmo.pdf"
   coauthors: Guido Imbens, Woojin Kim and David M. Ritzwoller
