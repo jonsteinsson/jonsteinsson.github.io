@@ -5,4 +5,6 @@ Stefano DellaVigna (Ph.D. 2002, Harvard) is the Daniel Koshland, Sr. Distinguish
 - Co-PI, [Social Science Prediction Platform](https://socialscienceprediction.org)
 - Co-Editor, [Handbook of Behavioral Economics](https://www.elsevier.com/books/handbook-of-behavioral-economics-foundations-and-applications-1/bernheim/978-0-444-63374-3) (with Doug Bernheim and David Laibson)
 
+### Hiring a new pre-doc! [Posting](https://aprecruit.berkeley.edu/JPF05225)
+
 #### [Curriculum Vitae](/pdf/cv.pdf)
