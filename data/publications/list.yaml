@@ -475,7 +475,7 @@ works:
   coauthors: Joshua Pollet
   book: Journal of Finance, April 2009, Vol. 64(2), pp. 709–749.
   links:
-  - url: /datacode/earnData.shtml
+  - url: /datacode/EarningsSearchesDec06.dta
     text: '[Data on accuracy of  earnings announcement dates]'
   abstract: >
     Does limited attention among investors affect stock returns? We compare the
@@ -509,7 +509,7 @@ works:
   coauthors: Ethan Kaplan
   book: Quarterly Journal of Economics, August 2007, Vol. 122(3), pp. 1187–1234.
   links:
-  - url: /datacode/foxnewsData.shtml
+  - url: /datacode/FoxNewsDataQJEMay07.zip
     text: Data
   abstract: >
     Does media bias affect voting? We analyze the entry of Fox News in cable
@@ -535,7 +535,7 @@ works:
   coauthors: Ulrike Malmendier
   book: American Economic Review, June 2006, Vol. 96(3), pp. 694–719.
   links:
-  - url: /datacode/gymData.shtml
+  - url: /datacode/gymData.zip
     text: Data
   - url: /pdf/gymemp02-10-30.pdf
     text: 'Self-Control in the Market: Evidence from the Health Club Industry'
