@@ -109,7 +109,7 @@ sections:
       economy. 
     links:
     - text: Replication Package
-      url: "/jsteinsson/papers/TrilemmaReplication.zip"
+      url: https://drive.google.com/file/d/1HZA4dc1pHSTlSo3Y49Sl56XD_57fl2tR/view?usp=sharing
   - id: 7
     title: A Plucking Model of Business Cycles
     pdflink: "/jsteinsson/papers/plucking.pdf"
@@ -178,7 +178,7 @@ sections:
     - text: Appendix
       url: "/jsteinsson/papers/learning_appendix.pdf"
     - text: Replication Package
-      url: "/jsteinsson/papers/LearningReplication.zip"
+      url: https://drive.google.com/file/d/1vI0Z1wt_Ng7wieIbzTf5qEUI0N3dv4fY/view?usp=sharing
   - id: 10
     title: Women, Wealth Effects, and Slow Recoveries
     pdflink: "/jsteinsson/papers/femalelabor.pdf"
@@ -281,7 +281,7 @@ sections:
     - text: Online Appendix
       url: "/jsteinsson/papers/LongViewOnlineAppendix.pdf"
     - text: Replication Files
-      url: "/jsteinsson/papers/LongViewReplication.zip"
+      url: https://drive.google.com/file/d/1TpzhYr0-O9nCMOxGa9xG7ug-NDVLyq6Q/view?usp=sharing
   - id: 14
     title: What Do We Learn From Cross-Regional Empirical Estimates in Macroeconomics
     pdflink: "/jsteinsson/papers/PEtoGE.pdf"
