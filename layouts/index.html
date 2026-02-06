@@ -1,44 +1,6 @@
 {{ define "main" -}}
-<h2 id="bio">Bio</h2>
-{{ with .GetPage "aboutme.md" }}
+<h2>Home</h2>
+{{ with .GetPage "/sections/home.md" }}
 {{ .Content }}
 {{ end }}
-
-{{ $scratch := newScratch }}
-{{ $scratch.Set "pubcnt" 0 }}
-
-{{ with .Site.Data.working_papers }}
-<hr>
-<h2 id="workingpapers">Working Papers</h2>
-{{ range . }}
-{{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}   
-{{ end }}
-{{ end }}
-{{ end }}
-
-{{ with .Site.Data.publications }}
-<hr>
-<h2 id="publications">Publications</h2>
-{{ range . }}
-{{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}   
-{{ end }}
-{{ end }}
-{{ end }}
-
-{{ with .Site.Data.older_papers }}
-<hr>
-<h2 id="older_papers">Older Papers</h2>
-{{ range . }}
-{{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}   
-{{ end }}
-{{ end }}
-{{ end }}
-
-{{ .Content }}
 {{- end }}

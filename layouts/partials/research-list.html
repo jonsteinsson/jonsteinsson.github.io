@@ -1,0 +1,60 @@
+{{ $sections := site.Data.research.list.sections }}
+{{ $jumpLabels := dict
+  "working-papers" "Working Papers"
+  "survey-papers" "Survey Papers"
+  "published-and-forthcoming" "Published and Forthcoming"
+  "published-essays-comments-and-discussions" "Published Essays / Comments / Discussions"
+  "unpublished-papers" "Unpublished Papers"
+  "discussions" "Discussions"
+  "popular-writing" "Popular Writing"
+}}
+
+<p style="margin:0 0 15px;">
+<strong>Jump to:</strong>
+{{ range $i, $s := $sections }}
+<a href="#{{ $s.id }}">{{ index $jumpLabels $s.id | default $s.title }}</a>{{ if lt $i (sub (len $sections) 1) }} |{{ end }}
+{{ end }}
+</p>
+
+{{ range $si, $section := $sections }}
+{{ if gt $si 0 }}<hr>{{ end }}
+<h2 id="{{ $section.id }}">{{ $section.title }}</h2>
+{{ range $work := $section.works }}
+<h3 style="margin:20px 0 5px;">{{ with $work.pdflink }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}{{ $work.title }}{{ with $work.pdflink }}</a>{{ end }}</h3>
+{{ with $work.coauthors }}
+{{ $coauthors := . | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}
+<p style="margin:0 0 5px;">({{ $coauthors | safeHTML }})</p>
+{{ end }}
+{{ with $work.book }}
+{{ $book := . | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}
+<p style="margin:0 0 5px;">{{ $book | safeHTML }}</p>
+{{ end }}
+{{ with $work.notes }}
+{{ range $note := . }}
+{{ $cleanNote := $note | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}
+<p style="margin:0 0 5px;">{{ $cleanNote | safeHTML }}</p>
+{{ end }}
+{{ end }}
+{{ with $work.abstract }}
+<p style="margin:0 0 5px;"><a href="javascript:toggle({{ $work.id }})">Abstract<span id="pubabslink_{{ $work.id }}"> (click to expand)</span></a><span id="pubabs_{{ $work.id }}" style="display:none;">: {{ . }}</span></p>
+{{ end }}
+{{ with $work.links }}
+{{ range $link := . }}
+<p style="margin:0 0 5px;"><a href="{{ $link.url }}" target="_blank" rel="noopener">{{ $link.text }}</a>{{ with $link.note }}{{ $cleanLinkNote := . | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}: {{ $cleanLinkNote | safeHTML }}{{ end }}</p>
+{{ end }}
+{{ end }}
+{{ with $work.link_notes }}
+{{ range $note := . }}
+{{ $cleanLinkNote := $note | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}
+<p style="margin:0 0 5px;">{{ $cleanLinkNote | safeHTML }}</p>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}
+
+<p style="margin:20px 0 15px;">
+<strong>Jump to:</strong>
+{{ range $i, $s := $sections }}
+<a href="#{{ $s.id }}">{{ index $jumpLabels $s.id | default $s.title }}</a>{{ if lt $i (sub (len $sections) 1) }} |{{ end }}
+{{ end }}
+</p>
