@@ -1,4 +1,5 @@
-{{ $sections := site.Data.research.list.sections }}
+{{ $researchData := readFile "content/research-list.yaml" | transform.Unmarshal }}
+{{ $sections := $researchData.sections }}
 {{ $jumpLabels := dict
   "working-papers" "Working Papers"
   "survey-papers" "Survey Papers"

@@ -1,6 +1,10 @@
 {{ define "main" -}}
 <h2>Home</h2>
-{{ with .GetPage "/sections/home.md" }}
+{{ $home := .GetPage "/home.md" }}
+{{ if not $home }}
+{{ $home = .GetPage "/sections/home.md" }}
+{{ end }}
+{{ with $home }}
 {{ .Content }}
 {{ end }}
 {{- end }}

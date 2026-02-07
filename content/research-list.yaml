@@ -1,0 +1,765 @@
+---
+sections:
+- id: working-papers
+  title: Working Papers
+  works:
+  - id: 1
+    title: 'Disentangling Age, Time, and Cohort Effects in Income Inequality: A Proxy Machine Learning
+      Approach'
+    pdflink: "/papers/ATC_Paper.pdf"
+    coauthors: >-
+      with [David Bruns-Smith](https://brunssmith.com//) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    abstract: >-
+      A canonical finding from earlier research is that the cross-sectional variance of income increases sharply with age (Deaton and Paxson, 1994). However, the trend in this age profile is
+      not separately identified from time and cohort trends. Conventional methods solve this identification problem by ruling out “time effects.” This strong assumption is rejected by the data.
+      We propose a new proxy variable machine learning approach to disentangle age, time and
+      cohort effects. Using this method, we estimate a significantly smaller slope of the age profile
+      of income variance for the US than conventional methods, as well as less erratic slopes for 11
+      other countries.
+  - id: 2
+    title: Beyond the Taylor Rule
+    pdflink: "/papers/Taylor_Rule.pdf"
+    coauthors: >-
+      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura) and [Venance Riblier](https://venance-riblier.github.io/)
+    book: Presented at the Jackson Hole Economic Policy Symposium, August 2025.
+    abstract: >-
+      The Federal Reserve partially “looked through” the post-Covid rise in inflation and ultimately managed to bring about an “immaculate disinflation.” The Fed’s policy deviated
+      strongly from the Taylor rule during this period. More generally, central banks with strong
+      inflation-fighting credentials looked through post-Covid inflationary shocks yet experienced
+      less inflation than more hawkish but less credible central banks. In light of this episode, we
+      assess the degree to which the Taylor rule is descriptive, and the degree to which it should be
+      viewed as prescriptive. While the Taylor rule (generally) fits well during the Greenspan period, it (generally) fits poorly in the early 1980s and after the early 2000s. Academic work
+      has emphasized the role of the Taylor rule in preventing self-fulfilling fluctuations (guaranteeing determinacy). These concerns can be addressed with a shock-contingent commitment
+      and are fragile to deviations from fully rational expectations. We discuss three reasons why
+      optimal policy may not always imply a one-for-one response of interest rates to inflation (forward guidance, correlated shocks, and “long and variable lags”). The main challenge arising
+      from such policies is not indeterminacy but erosion of inflation-fighting credibility and potential deanchoring of long-run inflation expectations. Only central banks with strongly anchored
+      inflation expectations and large amounts of inflation-fighting credibility are likely to be able to
+      look through inflationary shocks.
+    links:
+    - text: Replication Package
+      url: "/papers/TaylorReplication.zip"
+  - id: 3
+    title: Macroeconomic Effects of UI Extensions at Short and Long Durations
+    pdflink: "/papers/UI.pdf"
+    coauthors: >-
+      with [Miguel Acosta](https://www.acostamiguel.com/), [Andreas Mueller](https://sites.google.com/view/andreasimueller/)
+      and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    abstract: >-
+      We study the macroeconomic effects of unemployment insurance (UI) benefit extensions in
+      the United States at short and long durations. To do this, we develop a new state level dataset
+      on trigger variables for UI extensions and a “UI Benefits Calculator” based on detailed legislative and administrative sources spanning five decades. Our identification approach exploits
+      variation across states in the options governing the Extended Benefits program. We find that
+      UI extensions during time periods when UI benefit durations are already long—such as in the
+      Great Recession—have minimal effects. However, UI extensions at shorter initial durations
+      have substantial effects on the unemployment rate and the number of people receiving UI,
+      with larger estimates during Covid. We relate our estimates to microeconomic estimates of the
+      effects of UI extensions through the lens of partial and general equilibrium models.
+- id: survey-papers
+  title: Survey Papers
+  works:
+  - id: 4
+    title: Identification in Macroeconomics
+    pdflink: "/papers/macroempirics.pdf"
+    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Journal of Economic Perspectives*, 32(3), 59-86, Summer 2018."
+    links:
+    - text: Slides
+      url: "/papers/idmacro_slides.pdf"
+    - text: Appendix
+      url: "/papers/macroempiricsAppendix.pdf"
+    - text: Replication Material
+      url: "/papers/ReplicationIdMacro.zip"
+  - id: 5
+    title: 'Price Rigidity: Microeconomic Evidence and Macroeconomic Implications'
+    pdflink: "/papers/psurvey.pdf"
+    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Annual Review of Economics*, 5, 133-163, 2013."
+    abstract: >-
+      We review recent evidence on price rigidity from the macroeconomics
+      literature and discuss how this evidence is used to inform macroeconomic modeling. Sluggish price adjustment is a leading explanation
+      for the large effects of demand shocks on output and, in particular,
+      the effects of monetary policy on output. A recent influx of data on individual prices has greatly deepened macroeconomists’ understanding
+      of individual price dynamics. However, the analysis of these new data
+      raises a host of new empirical issues that have not traditionally been
+      confronted by parsimonious macroeconomic models of price setting.
+      Simple statistics such as the frequency of price change may be misleading guides to the flexibility of the aggregate price level in a setting
+      in which temporary sales, product churning, cross-sectional heterogeneity, and large idiosyncratic price movements play an important
+      role. We discuss empirical evidence on these and other important
+      features of micro price adjustment and ask how they affect the
+      sluggishness of aggregate price adjustment and the economy’s response to demand shocks.
+- id: published-and-forthcoming
+  title: Published And Forthcoming Research Papers
+  works:
+  - id: 6
+    title: The Macroeconomic Consequences of Exchange Rate Depreciations
+    pdflink: "/papers/trilemma.pdf"
+    coauthors: with [Masao Fukui](https://masaofukui.com) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Quarterly Journal of Economics*, 140(4), 3015-3065, November 2025."
+    abstract: >-
+      We study the consequences of “regime-induced” exchange rate depreciations
+      by comparing outcomes for peggers versus floaters to the U.S. dollar in response
+      to a dollar depreciation. Pegger currencies depreciate relative to floater currencies
+      and these depreciations are strongly expansionary. The boom is associated with
+      a fall in net exports, and (if anything) an increase in interest rates in the pegger
+      countries. This suggests that expenditure switching and domestic monetary policy are not the main drivers of the boom. We show that a large class of existing
+      models cannot match our estimated responses and develop a model with imperfect
+      financial openness that can. Following a depreciation, uncovered interest parity
+      deviations lower the costs of borrowing from abroad and stimulate the economy,
+      as in the data. The model is consistent with (unconditional) exchange rate disconnect and the Mussa fact, even though exchange rates have large effects on the
+      economy. 
+    links:
+    - text: Replication Package
+      url: https://drive.google.com/file/d/1HZA4dc1pHSTlSo3Y49Sl56XD_57fl2tR/view?usp=sharing
+  - id: 7
+    title: A Plucking Model of Business Cycles
+    pdflink: "/papers/plucking.pdf"
+    coauthors: >-
+      with [Stéphane Dupraz](http://www.stephaneduprazecon.com/) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Journal of Monetary Economics*, 152, 103766, June 2025."
+    abstract: >-
+      In standard models, economic activity fluctuates symmetrically around a "natural rate" and
+      stabilization policies can dampen these fluctuations but do not affect the average level of
+      activity. An alternative view - labeled the "plucking model" by Milton Friedman - is that
+      economic fluctuations are drops below the economy's full potential ceiling. We show that the
+      dynamics of the unemployment rate in the US display a striking asymmetry that strongly favors
+      the plucking model: increases in unemployment are followed by decreases of similar amplitude,
+      while the amplitude of a decrease does not predict the amplitude of the following increase.
+      In addition, business cycles last seven years on average and unemployment rises much faster
+      during recessions than it falls during expansions. We augment a standard labor search model
+      with downward nominal wage rigidity and show how it can fit the plucking property.
+    links:
+    - text: Code to Date Peaks and Troughs
+      url: "/papers/findpeaksandtroughs.m"
+    - text: Replication Package
+      url: "/papers/pluckingReplication.zip"
+    - text: Appendix
+      url: "/papers/PluckingAppendix.pdf"
+  - id: 8
+    title: When Did Growth Begin? New Estimates of Productivity Growth in England from 1250 to 1870
+    pdflink: "/papers/malthus.pdf"
+    coauthors: >-
+      with [Paul Bouscasse](https://www.paul-bouscasse.com/) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Quarterly Journal of Economics*, 140(2), 835-888, May 2025."
+    abstract: >-
+      We estimate productivity growth in England from 1250 to 1870. Real wages
+      over this period were heavily influenced by plague-induced swings in the population. Our estimates account for these Malthusian dynamics. We find that productivity growth was zero before 1600. Productivity growth began in 1600—almost
+      a century before the Glorious Revolution. Thus, the onset of productivity growth
+      preceded the bourgeois institutional reforms of seventeenth-century England. We
+      estimate productivity growth of 2% per decade between 1600 and 1800, increasing to 5% per decade between 1810 and 1860. Much of the increase in output
+      growth during the Industrial Revolution is explained by structural change—the
+      falling importance of land in production—rather than faster productivity growth.
+      Stagnant real wages in the eighteenth and early nineteenth centuries—Engels’
+      Pause—is explained by rapid population growth putting downward pressure on
+      real wages. Yet feedback from population growth to real wages is sufficiently weak
+      to permit sustained deviations from the “iron law of wages” prior to the Industrial
+      Revolution.
+    links:
+    - text: Estimates
+      url: "/papers/bns_estimates.xlsx"
+    - text: Appendix
+      url: "/papers/malthusAppendix.pdf"
+    - text: Replication Package
+      url: "/papers/bns_replication.zip"
+  - id: 9
+    title: Learning About the Long Run
+    pdflink: "/papers/learning.pdf"
+    coauthors: >-
+      with [Leland Farmer](https://www.lelandfarmer.com/) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Journal of Political Economy*, 132(10), 3334-3377, October 2024."
+    abstract: >-
+      Forecasts of professional forecasters are anomalous: they are biased,
+      and forecast errors are autocorrelated and predictable by forecast revisions. We propose that these anomalies arise because professional
+      forecasters do not know the model that generates the data. We show
+      that Bayesian agents learning about hard-to-learn features of the world
+      can generate all the prominent aggregate anomalies emphasized in
+      the literature. We show this for professional forecasts of nominal interest rates and Congressional Budget Office forecasts of gross domestic
+      product growth. Our learning model for interest rates can explain observed deviations from the expectations hypothesis of the term structure without relying on time variation in risk premia.
+    links:
+    - text: Appendix
+      url: "/papers/learning_appendix.pdf"
+    - text: Replication Package
+      url: https://drive.google.com/file/d/1vI0Z1wt_Ng7wieIbzTf5qEUI0N3dv4fY/view?usp=sharing
+  - id: 10
+    title: Women, Wealth Effects, and Slow Recoveries
+    pdflink: "/papers/femalelabor.pdf"
+    coauthors: with [Masao Fukui](https://masaofukui.com) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*American Economic Journal: Macroeconomics*, 15(1), 269-313, January 2023."
+    abstract: >-
+      Business cycle recoveries have slowed in recent decades. This slowdown comes entirely from female employment, as women’s employment rates converged toward men’s during the past half-century.
+      But does the slowdown in the growth of female employment rates
+      translate into a slowdown for overall employment rates? We estimate
+      the extent to which women “crowd out” men in the labor market
+      across US states, and find that it is small. Through the lens of a general equilibrium model with home production, we show this statistic
+      implies that 60-75 percent of the slowdown in recent business cycle
+      recoveries can be explained by female convergence.
+    links:
+    - text: Appendix
+      url: "/papers/femalelabor_Appendix.pdf"
+    - text: Replication Package
+      url: https://www.openicpsr.org/openicpsr/project/149321/version/V1/view
+  - id: 11
+    title: 'The Slope of the Phillips Curve: Evidence from U.S. States'
+    pdflink: "/papers/StateLevelCPIs.pdf"
+    coauthors: >-
+      with [Jonathon Hazell](https://sites.google.com/view/jadhazell/home), [Juan Herreno](https://sites.google.com/view/juanherreno)
+      and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Quarterly Journal of Economics*, 137(3), 1299-1344, August 2022."
+    abstract: >-
+      We estimate the slope of the Phillips curve in the cross section of U.S. states
+      using newly constructed state-level price indices for nontradeable goods back to
+      1978. Our estimates indicate that the slope of the Phillips curve is small and
+      was small even during the early 1980s. We estimate only a modest decline in the
+      slope of the Phillips curve since the 1980s. We use a multiregion model to infer
+      the slope of the aggregate Phillips curve from our regional estimates. Applying
+      our estimates to recent unemployment dynamics yields essentially no missing
+      disinflation or missing reinflation over the past few business cycles. Our results
+      imply that the sharp drop in core inflation in the early 1980s was mostly due to
+      shifting expectations about long-run monetary policy as opposed to a steep Phillips
+      curve, and the greater stability of inflation between 1990 and 2020 is mostly due
+      to long-run inflation expectations becoming more firmly anchored. 
+    links:
+    - text: Appendix
+      url: "/papers/StateLevelCPIs_Appendix.pdf"
+    - text: State Level CPI Data (BETA)
+      url: "/papers/statecpi_beta.csv"
+    - text: ReadMe for State Level CPIs
+      url: "/papers/StateCPIData_readme.pdf"
+    - text: Replication Package
+      url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OQNZYE
+  - id: 12
+    title: 'The Gift of Moving: Intergenerational Consequences of a Mobility Shock'
+    pdflink: "/papers/giftofmoving.pdf"
+    coauthors: >-
+      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura) and [Jósef Sigurdsson](https://josefsigurdsson.com/)
+    book: "*Review of Economic Studies*, 89(3), 1557-1592, May 2022."
+    abstract: >-
+      We exploit a volcanic “experiment” to study the costs and benefits of geographic mobility. In our
+      experiment, a third of the houses in a town were covered by lava. People living in these houses were much
+      more likely to move away permanently. For the dependents in a household (children), our estimates suggest
+      that being induced to move by the “lava shock” dramatically raised lifetime earnings and education. While
+      large, these estimates come with a substantial amount of statistical uncertainty. The benefits of moving
+      were very unequally distributed across generations: the household heads (parents) were made slightly
+      worse off by the shock. These results suggest large barriers to moving for the children, which imply that
+      labour does not flow to locations where it earns the highest returns. The large gains from moving for the
+      young are surprising in light of the fact that the town affected by our volcanic experiment was (and is)
+      a relatively high income town. We interpret our findings as evidence of the importance of comparative
+      advantage: the gains to moving may be very large for those badly matched to the location they happened
+      to be born in, even if differences in average income are small.
+    links:
+    - text: Appendix
+      url: "/papers/appendix_giftofmoving.pdf"
+    - text: Replication Files
+      url: "/papers/Gift_of_Moving_Replication.zip"
+    - text: Slides
+      url: "/papers/Westman_slides.pdf"
+  - id: 13
+    title: 'Housing Wealth Effects: The Long View'
+    pdflink: "/papers/longview.pdf"
+    coauthors: >-
+      with [Adam Guren](http://people.bu.edu/guren/), [Alisdair McKay](https://alisdairmckay.com/), and
+      [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Review of Economic Studies*, 88(2), 669-707, March 2021."
+    abstract: >-
+      We provide new time-varying estimates of the housing wealth effect back to the 1980s. We use
+      three identification strategies: ordinary least squares with a rich set of controls, the Saiz housing supply
+      elasticity instrument, and a new instrument that exploits systematic differences in city-level exposure to
+      regional house price cycles. All three identification strategies indicate that housing wealth elasticities
+      were if anything slightly smaller in the 2000s than in earlier time periods. This implies that the important
+      role housing played in the boom and bust of the 2000s was due to larger price movements rather than
+      an increase in the sensitivity of consumption to house prices. Full-sample estimates based on our new
+      instrument are smaller than recent estimates, though they remain economically important. We find no
+      significant evidence of a boom-bust asymmetry in the housing wealth elasticity. We show that these
+      empirical results are consistent with the behaviour of the housing wealth elasticity in a standard life-cycle
+      model with borrowing constraints, uninsurable income risk, illiquid housing, and long-term mortgages.
+      In our model, the housing wealth elasticity is relatively insensitive to changes in the distribution of loanto-value (LTV) for two reasons: first, low-leverage homeowners account for a substantial and stable part
+      of the aggregate housing wealth elasticity; second, a rightward shift in the LTV distribution increases not
+      only the number of highly sensitive constrained agents but also the number of underwater agents whose
+      consumption is insensitive to house prices.
+    links:
+    - text: Local House Price Sensitivity Estimates
+      url: "/papers/gmns_gammas.zip"
+    - text: Online Appendix
+      url: "/papers/LongViewOnlineAppendix.pdf"
+    - text: Replication Files
+      url: https://drive.google.com/file/d/1TpzhYr0-O9nCMOxGa9xG7ug-NDVLyq6Q/view?usp=sharing
+  - id: 14
+    title: What Do We Learn From Cross-Regional Empirical Estimates in Macroeconomics
+    pdflink: "/papers/PEtoGE.pdf"
+    coauthors: >-
+      with [Adam Guren](http://people.bu.edu/guren/), [Alisdair McKay](https://alisdairmckay.com/), and
+      [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*NBER Macroeconomics Annual 2020*, 175-223."
+    links:
+    - text: Online Appendix
+      url: "/papers/OnlineAppendix_WhatDoWeLearn.pdf"
+    - text: Replication Files
+      url: "/papers/PEtoGE_Replication.zip"
+  - id: 15
+    title: New Evidence on the Cyclicality of Employer-to-Employer Flows from Canada
+    pdflink: "/papers/cwfpp.pdf"
+    coauthors: >-
+      with [Alice Nakamura](http://www.alicenakamura.com/), [Emi Nakamura](http://eml.berkeley.edu/~enakamura),
+      and [Kyle Phong](https://sites.google.com/view/kphong/home)
+    book: "*American Economic Association Papers and Proceedings*, 109, 456-460, May 2019."
+    links:
+    - text: Replication Files
+      url: "/papers/ReplicationCWFPP.zip"
+      note: >-
+        Companion paper: [Worker Reallocation over the Business Cycle: Evidence from Canada](/papers/cwf.pdf)
+  - id: 16
+    title: 'The Elusive Costs of Inflation: Price Dispersion during the U.S. Great Inflation'
+    pdflink: "/papers/costsinflation.pdf"
+    coauthors: >-
+      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura), [Patrick Sun](https://sites.google.com/site/patrickksun/home),
+      and [Daniel Villar](https://www.federalreserve.gov/econres/daniel-villar-vallenas.htm)
+    book: "*Quarterly Journal of Economics*, 133(4), 1933-1980, November 2018."
+    abstract: >-
+      A key policy question is: how high an inflation rate should central banks
+      target? This depends crucially on the costs of inflation. An important concern
+      is that high inflation will lead to inefficient price dispersion. Workhorse New
+      Keynesian models imply that this cost of inflation is very large. An increase in
+      steady state inflation from 0% to 10% yields a welfare loss that is an order of
+      magnitude greater than the welfare loss from business cycle fluctuations in output
+      in these models. We assess this prediction empirically using a new data set on
+      price behavior during the Great Inflation of the late 1970s and early 1980s in the
+      United States. If price dispersion increases rapidly with inflation, we should see
+      the absolute size of price changes increasing with inflation: price changes should
+      become larger as prices drift further from their optimal level at higher inflation
+      rates. We find no evidence that the absolute size of price changes rose during the
+      Great Inflation. This suggests that the standard New Keynesian analysis of the
+      welfare costs of inflation is wrong and its implications for the optimal inflation
+      rate need to be reassessed. We also find that (nonsale) prices have not become
+      more flexible over the past 40 years.
+    links:
+    - text: Appendix
+      url: "/papers/costsinflationAppendix.pdf"
+    - text: Slides
+      url: "/papers/oldcpi.pdf"
+    - text: ELI Concordance
+      url: "/papers/ELIconcordance.xls"
+    - text: Replication Material
+      url: "/papers/OldCPIReplication.zip"
+    link_notes:
+    - >-
+      Press: [WSJ (8/19/16)](http://blogs.wsj.com/economics/2016/08/19/the-case-for-raising-the-feds-inflation-target/), [FT (3/16/18)](https://www.ft.com/content/89792200-2972-11e8-b27e-cc62a39d57a0), [Forbes (8/19/16)](http://www.forbes.com/sites/jeffreydorfman/2016/08/19/inflation-is-still-bad-for-the-economy/#279831e854be)
+  - id: 17
+    title: 'High Frequency Identification of Monetary Non-Neutrality: The Information Effect'
+    pdflink: "/papers/realrate.pdf"
+    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Quarterly Journal of Economics*, 133(3), 1283-1330, August 2018."
+    abstract: >-
+      We present estimates of monetary non-neutrality based on evidence from highfrequency responses of real interest rates, expected inflation, and expected output
+      growth. Our identifying assumption is that unexpected changes in interest rates in
+      a 30-minute window surrounding scheduled Federal Reserve announcements arise
+      from news about monetary policy. In response to an interest rate hike, nominal
+      and real interest rates increase roughly one-for-one, several years out into the
+      term structure, while the response of expected inflation is small. At the same time,
+      forecasts about output growth also increase—the opposite of what standard models
+      imply about a monetary tightening. To explain these facts, we build a model in
+      which Fed announcements affect beliefs not only about monetary policy but also
+      about other economic fundamentals. Our model implies that these information
+      effects play an important role in the overall causal effect of monetary policy shocks
+      on output.
+    links:
+    - text: Appendix
+      url: "/papers/realrateAppendix.pdf"
+    - text: Slides
+      url: "/papers/realrates_slides.pdf"
+    - text: Replication Files
+      url: "/papers/realratesreplication.zip"
+    - text: Policy News Shocks (original sample period)
+      url: "/papers/PolicyNewsShocksWeb.xlsx"
+      note: >-
+        Policy News Shocks constructed by Acosta, Brennan, and Jacobson for an
+        updated sample period may be found [here](https://www.acostamiguel.com/research.html).
+  - id: 18
+    title: 'The Discounted Euler Equation: A Note'
+    pdflink: "/papers/discountedEuler.pdf"
+    coauthors: >-
+      with [Alisdair McKay](https://alisdairmckay.com/) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Economica*, 84, 820-831, October 2017."
+    abstract: >-
+      We present a simple model with income risk and borrowing constraints that yields a ‘discounted Euler
+      equation’. This feature of the model mutes the extent to which news about far future real interest rates (i.e.
+      forward guidance) affects current outcomes. We show that this simple model approximates the outcomes
+      of a rich model with uninsurable income risk and borrowing constraints in response to a forward guidance
+      shock. The model is simple enough to be easily incorporated into simple New Keynesian models. We
+      illustrate this with an application to the zero lower bound.
+  - id: 19
+    title: Informational Rigidities and the Stickiness of Temporary Sales
+    pdflink: "/papers/stickysales.pdf"
+    coauthors: >-
+      with [Eric Anderson](http://www.kellogg.northwestern.edu/faculty/directory/anderson_eric_t.aspx),
+      [Benjamin Malin](https://www.minneapolisfed.org/people/benjamin-a-malin), [Emi Nakamura](http://eml.berkeley.edu/~enakamura),
+      and [Duncan Simester](https://mitsloan.mit.edu/faculty/directory/duncan-simester)
+    book: "*Journal of Monetary Economics*, 90, 64-83, October 2017."
+    abstract: >-
+      How do retailers react to cost changes? While temporary sales account for 95% of price
+      change in our data, retail prices respond to a wholesale cost increase entirely through
+      the regular price. Sales actually respond temporarily in the opposite direction from regular
+      prices, as though to conceal the price hike. Additional evidence from responses to commodity cost and local unemployment shocks, as well as broader evidence from BLS data,
+      reinforces these findings. Institutional evidence indicates that sales are complex contingent
+      contracts, determined substantially in advance. In a standard price-discrimination model,
+      these institutional practices leave little money “on the table”.
+  - id: 20
+    title: 'Growth-Rate and Uncertainty Shocks in Consumption: Cross-Country Evidence'
+    pdflink: "/papers/longrunrisk.pdf"
+    coauthors: >-
+      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura) and [Dmitriy Sergeyev](https://sites.google.com/site/dmitriysergeyev/)
+    book: "*American Economic Journal: Macroeconomics*, 9(1), 1-39, January 2017."
+    abstract: >-
+      We provide new estimates of the importance of growth-rate shocks and
+      uncertainty shocks for developed countries. The shocks we estimate
+      are large and correspond to well-known macroeconomic episodes
+      such as the Great Moderation and the productivity slowdown. We compare our results to earlier estimates of “long-run risks” and assess
+      the implications for asset pricing. Our estimates yield greater return
+      predictability and a more volatile price-dividend ratio. In addition,
+      we can explain a substantial fraction of cross-country variation in the
+      equity premium. An advantage of our approach, based on macroeconomic data alone, is that the parameter estimates cannot be viewed as
+      backward engineered to fit asset pricing data. We provide intuition for
+      our results using the recently developed framework of shock-exposure
+      and shock-price elasticities.
+    links:
+    - text: Figure A.1
+      url: "/papers/longrunrisk_figureA1.pdf"
+    - text: Data and Programs
+      url: "/papers/LRRDataAndPrograms.zip"
+  - id: 21
+    title: The Power of Forward Guidance Revisited
+    pdflink: "/papers/forwardguidance.pdf"
+    coauthors: >-
+      with [Alisdair McKay](https://alisdairmckay.com/) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*American Economic Review*, 106(10), 3133-3158, October 2016."
+    abstract: >-
+      In recent years, central banks have increasingly turned to forward
+      guidance as a central tool of monetary policy. Standard monetary
+      models imply that far future forward guidance has huge effects
+      on current outcomes, and these effects grow with the horizon of
+      the forward guidance. We present a model in which the power of
+      forward guidance is highly sensitive to the assumption of complete
+      markets. When agents face uninsurable income risk and borrowing
+      constraints, a precautionary savings effect tempers their responses to
+      changes in future interest rates. As a consequence, forward guidance
+      has substantially less power to stimulate the economy
+    links:
+    - text: Programs
+      url: "/papers/ForwardGuidanceReplication.zip"
+    - text: Erratum
+      url: "/papers/forwardguidanceErratum.pdf"
+  - id: 22
+    title: Are Chinese Growth and Inflation Too Smooth? Evidence from Engel Curves
+    pdflink: "/papers/chinainflation.pdf"
+    coauthors: >-
+      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura) and [Miao Liu](https://www.bc.edu/bc-web/schools/carroll-school/faculty-research/faculty-directory/miao-liu.html)
+    book: "*American Economic Journal: Macroeconomics*, 8(3), 113-144, July 2016."
+    abstract: >-
+      China has experienced remarkably stable growth and inflation in
+      recent years according to official statistics. We use systematic discrepancies between cross-sectional and time-series Engel curves to
+      construct alternative estimates of Chinese growth and inflation. Our
+      estimates suggest that official statistics present a smoothed version
+      of reality. Official inflation rose in the 2000s, but our estimates indicate that true inflation was still higher and consumption growth was
+      overstated. In contrast, inflation was overstated and growth understated during the low-inflation 1990s. These patterns hold for the
+      food Engel curve, and for numerous other categories, such as grain
+      as a fraction of food. 
+    link_notes:
+    - >-
+      Press: [Wall Street Journal (10/19/16)](http://www.wsj.com/articles/economists-question-chinas-consistent-growth-numbers-1476880761),
+      [Economist (3/15/14)](http://www.economist.com/news/finance-and-economics/21599051-chinas-official-figures-both-understate-and-overstate-inflation-alternative-view),
+      [Wall Street Journal (2/14/14)](http://online.wsj.com/news/articles/SB10001424052702303704304579382471899917610?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702303704304579382471899917610.html),
+      [Financial Times (12/2/13)](http://www.ft.com/intl/cms/s/0/73cc7b6a-584c-11e3-9da6-00144feabdc0.html#axzz2mMngGCpV)
+  - id: 23
+    title: 'Fiscal Stimulus in a Monetary Union: Evidence from U.S. Regions'
+    pdflink: "/papers/fiscal.pdf"
+    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*American Economic Review*, 104(3), 753-792, March 2014."
+    abstract: >-
+      We use rich historical data on military procurement to estimate
+      the effects of government spending. We exploit regional variation
+      in military buildups to estimate an “open economy relative multiplier” of approximately 1.5. We develop a framework for interpreting this estimate and relating it to estimates of the standard
+      closed economy aggregate multiplier. The latter is highly sensitive
+      to how strongly aggregate monetary and tax policy “leans against
+      the wind.” Our open economy relative multiplier “differences out”
+      these effects because monetary and tax policies are uniform across
+      the nation. Our evidence indicates that demand shocks can have
+      large effects on output. 
+    links:
+    - text: Technical Appendix
+      url: "/papers/fiscalAppendix.pdf"
+    - text: Erratum
+      url: "/papers/ErratumFiscal.pdf"
+    - text: How to Get Military Prime Contract Data
+      url: "/papers/HowToGetMilitaryPrimeContractData.pdf"
+    link_notes:
+    - >-
+      Vox Article: [Does Fiscal Stimulus Work in a Montary Union?](http://www.voxeu.org/index.php?q=node/7056)
+      [Data and Programs](/papers/FiscalDataPrograms.zip)
+  - id: 24
+    title: Crises and Recoveries in an Empirical Model of Consumption Disasters
+    pdflink: "/papers/cdisasters.pdf"
+    coauthors: >-
+      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura), [Robert Barro](https://scholar.harvard.edu/barro/home)
+      and [José Ursúa](https://www.linkedin.com/in/jose-ursua)
+    book: "*American Economic Journal: Macroeconomics*, 5(3), 35-74, July 2013."
+    abstract: >-
+      We estimate an empirical model of consumption disasters using new
+      data on consumption for 24 countries over more than 100 years, and
+      study its implications for asset prices. The model allows for partial recoveries after disasters that unfold over multiple years. We
+      find that roughly half of the drop in consumption due to disasters
+      is subsequently reversed. Our model generates a sizable equity premium from disaster risk, but one that is substantially smaller than
+      in simpler models. It implies that a large value of the intertemporal
+      elasticity of substitution is necessary to explain stock-market crashes
+      at the onset of disasters.
+    links:
+    - text: Web Appendix
+      url: "/papers/cdisasterswebappendix.pdf"
+    - text: Data and Programs
+      url: "/papers/DisastersDataAndPrograms.zip"
+    link_notes:
+    - >-
+      Vox Article: [Disasters, Recoveries, and the Equity Premium](http://www.voxeu.org/index.php?q=node/5277)
+  - id: 25
+    title: 'Lost in Transit: Product Replacement Bias and Pricing to Market'
+    pdflink: "/papers/ippsubs.pdf"
+    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*American Economic Review*, 102(7), 3277-3316, December 2012."
+    abstract: >-
+      In the microdata underlying US trade price indexes, 40 percent of
+      products are replaced before a single price change is observed and
+      70 percent are replaced after two price changes or fewer. A price
+      index that focuses on price changes for identical items may, therefore, miss an important component of price adjustment occurring
+      at the time of product replacements. We provide a model of this
+      “product replacement bias” and quantify its importance using US
+      data. Accounting for product replacement bias, long-run exchange
+      rate “pass-through” is substantially higher than conventional estimates suggest, and the terms of trade are substantially more volatile. 
+    link_notes:
+    - >-
+      Press: [BusinessWeek (6/3/09)](/papers/200906BusinessWeek.pdf), [BusinessWeek (10/14/09)](/papers/200910BusinessWeek.pdf)
+      [Comments on Gagnon, Mandel, and Vigfusson (2013)](/papers/CommentsOnGagnonMandelVigfusson.pdf)
+  - id: 26
+    title: Price Setting in Forward-Looking Customer Markets
+    pdflink: "/papers/habit.pdf"
+    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Journal of Monetary Economics*, 58(3), 220-233, April 2011."
+    abstract: >-
+      If consumers form habits in individual goods, firms face a time-inconsistency problem.
+      Low prices in the future help attract customers in the present. Firms, therefore, have an
+      incentive to promise low prices in the future, but price gouge when the future arrives.
+      In this setting, firms benefit from "committing to a sticky price." If consumers have
+      incomplete information about costs and demand, the firm-preferred equilibrium has
+      the firm price at or below a "price cap." The model therefore provides an explanation for
+      the simultaneous existence of a rigid regular price and frequent "sales".
+    links:
+    - text: Technical Appendix
+      url: "/papers/habitwebapp.pdf"
+    - text: Firm Price Commitments
+      url: "/papers/HabitOnlineAppendix.pdf"
+  - id: 27
+    title: Monetary Non-Neutrality in a Multi-Sector Menu Cost Model
+    pdflink: "/papers/heterogeneity.pdf"
+    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Quarterly Journal of Economics*, 125(3), 961-1013, August 2010."
+    abstract: >-
+      Empirical evidence suggests that as much as one-third of the U.S. business
+      cycle is due to nominal shocks. We calibrate a multisector menu cost model using
+      new evidence on the cross-sectional distribution of the frequency and size of price
+      changes in the U.S. economy. We augment the model to incorporate intermediate
+      inputs. We show that the introduction of heterogeneity in the frequency of price
+      change triples the degree of monetary non-neutrality generated by the model. We
+      furthermore show that the introduction of intermediate inputs raises the degree
+      of monetary non-neutrality by another factor of three, without adversely affecting
+      the model's ability to match the large average size of price changes. A single-sector
+      model with a frequency of price change equal to the median, rather than the mean,
+      generates monetary non-neutrality similar to that in our multisector model. Our
+      multisector model with intermediate inputs generates variation in real output in
+      response to calibrated aggregate nominal shocks that can account for roughly 23%
+      of the U.S. business cycle.
+    links:
+    - text: Erratum
+      url: "/papers/MultisectorErratum.pdf"
+    - text: Appendix
+      url: "/papers/heterogeneityAppendix.pdf"
+    - text: Replication Code
+      url: "/papers/MenuCostModelCode.zip"
+    - text: Documentation
+      url: "/papers/MenuCostModelReadme.pdf"
+  - id: 28
+    title: 'Five Facts About Prices: A Reevaluation of Menu Cost Models'
+    pdflink: "/papers/fivefacts.pdf"
+    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: "*Quarterly Journal of Economics*, 123(4), 1415-1464, November 2008."
+    abstract: >-
+      We establish five facts about prices in the U.S. economy: (1) For consumer
+      prices, the median frequency of nonsale price change is roughly half of what it is
+      including sales (9-12% per month versus 19-20% per month for identical items;
+      11-13% per month versus 21-22% per month including product substitutions). The
+      median frequency of price change for finished-goods producer prices is comparable
+      to that of consumer prices excluding sales. (2) One-third of nonsale price changes
+      are price decreases. (3) The frequency of price increases covaries strongly with
+      inflation, whereas the frequency of price decreases and the size of price increases
+      and price decreases do not. (4) The frequency of price change is highly seasonal: it
+      is highest in the first quarter and then declines. (5) We find no evidence of upwardsloping hazard functions of price changes for individual products. We show that the
+      first, second, and third facts are consistent with a benchmark menu-cost model,
+      whereas the fourth and fifth facts are not.
+    links:
+    - text: ELI table (Excel)
+      url: "/papers/fivefactsELITableSup1.xls"
+      note: >-
+        Supplementary Material: [More Facts About Prices](/papers/fivefactssupplement.pdf)
+        Tables in Excel: [Tables from Paper](/papers/fivefactsTablesForWeb.xls)
+    - text: Tables from Supplement (Excel)
+      url: "/papers/fivefactsTablesforWebSup.xls"
+      note: >-
+        Press: [The Economist (11/9/06)](/papers/Economist200611.pdf), [Handelsblatt (2/8/10)](/papers/20100208Handelsblatt.pdf)
+    link_notes:
+    - 'Frequency of Price Change by ELI: [ELI table (PDF)](/papers/fivefactsELITable.pdf)'
+  - id: 29
+    title: The Dynamic Behavior of the Real Exchange Rate in Sticky-Price Models
+    pdflink: "/papers/persist.pdf"
+    book: "*American Economic Review*, 98(1), 519-533, March 2008."
+    links:
+    - text: Theoretical Programs
+      url: "/papers/PersistModelForWeb.zip"
+    - text: Documentation
+      url: "/papers/persistReadme.pdf"
+      note: "[Erratum](/papers/persistErratum.pdf)"
+    - text: Response to Iversen and Söderström (2014)
+      url: "/papers/ResponseToIversenAndSoderstrom.pdf"
+    link_notes:
+    - >-
+      Appendix: [Derivation of the Model](/papers/persistappendix.pdf) Matlab Programs: [Empirical
+      Programs](/papers/PersistEmpForWeb.zip)
+  - id: 30
+    title: Optimal Monetary Policy in an Economy with Inflation Presistence
+    pdflink: "/papers/STjme.pdf"
+    book: "*Journal of Monetary Economics* 50(7), 1425-1456, October 2003."
+    abstract: >-
+      This paper studies optimal monetary policy in a model where inflation is persistent.
+      Two types of price setters are assumed to exist. One acts rationally given Calvo-type
+      constraints on price setting. The other type sets prices according to a rule-of-thumb. This
+      results in a Phillips curve with both a forward-looking term and a backward-looking term.
+      The Phillips curve nests a standard purely forward-looking Phillips curve as well as a
+      standard purely backward-looking Phillips curve as special cases. A cost push supply
+      shock is derived from microfoundations by adding a time varying income tax and by
+      making the elasticity of substitution between goods stochastic. A central bank loss
+      function for this model is derived from a second-order Taylor approximation of the
+      household's welfare function. Optimal monetary policy for different relative values of
+      the forward- and backward-looking terms is then analyzed for both the commitment case and
+      the case of discretion.
+    links:
+    - text: Erratum
+      url: "/papers/STjme03erratum.pdf"
+    - text: Programs
+      url: "/papers/STjme.zip"
+- id: published-essays-comments-and-discussions
+  title: Published Essays, Comments, And Discussions
+  works:
+  - id: 31
+    title: Comment on "The International Monetary Transmission Mechanism"
+    pdflink: "/papers/inttransmission.pdf"
+    book: by Santiago Camara and Lawrence Christiano.
+    links:
+    - text: Slides
+      url: "/papers/inttransmission_slides.pdf"
+    link_notes:
+    - "*NBER Macroeconomics Annual*, 141-148, April 2024."
+  - id: 32
+    title: Thoughts on Fed Policy and the Fed's Framework
+    pdflink: "/papers/FedFramework2024.pdf"
+    book: in Bordon, M.D., J.H. Cochrane, and J.B. Taylor (ed),
+    link_notes:
+    - >-
+      *Getting Global Monetary Policy on Track*, Hoover Institution Press, Stanford, CA., 2025, p. 363-373.
+  - id: 33
+    title: Comment on "The Rise, the Fall, and the Resurrection of Iceland"
+    pdflink: "/papers/SteinssonBrookingsCommentPublished2017.pdf"
+    book: by Sigridur Benediksdottir, Gauti B. Eggertsson, and Eggert Thorarinsson.
+    link_notes:
+    - >-
+      *Brookings Panel on Economic Acticity*, 289-302, September 2017. [Slides](/papers/SteinssonBrookingsDiscussion2017.pdf)
+      (also given at NBER ME Meeting, November 2017)
+- id: unpublished-papers
+  title: Unpublished Papers
+  works:
+  - id: 34
+    title: Monetary Economics at the NBER
+    pdflink: "/papers/MoneyatNBER.pdf"
+    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: December 2019.
+  - id: 35
+    title: Should the Fed Ignore the Most Important Bias in the CPI?
+    pdflink: "/papers/ignorethebias07.pdf"
+    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    book: December 2007.
+  - id: 36
+    title: The Implementation of Monetary Policy in an Era of Electronic Payment Systems
+    pdflink: "/papers/ImplementMP.pdf"
+    book: March 2005.
+- id: discussions
+  title: Discussions
+  works:
+  - id: 37
+    title: Some International Evidence on Non-Linear Phillips Curves
+    pdflink: "/papers/SteinssonBenignoEggertsson.pdf"
+    book: Discussion of paper by Pierpaolo Benigno and Gauti Eggertsson at AEA Meetings, January 2024
+  - id: 38
+    title: Fed Communication
+    pdflink: "/papers/SteinssonFedCommunication.pdf"
+    book: >-
+      Discussion of paper by Stephen G. Cecchetti and Kermit L. Schoenholtz at Fed Listens conference,
+      June 2019
+  - id: 39
+    title: Identification in Macroeconomics
+    pdflink: "/papers/idmacroChina.pdf"
+    book: Presentation given at a conference on Frontiers of Macroeconomics in Shanghai, December 2018
+  - id: 40
+    title: The Rise, the Fall, and the Resurrection of Iceland
+    pdflink: "/papers/SteinssonBrookingsDiscussion2017.pdf"
+    book: by Sigridur Benediksdottir, Gauti B. Eggertsson, and Eggert Thorarinsson.
+    link_notes:
+    - >-
+      Discussion at Brookings Panel on Economic Acticity, September 2017, and NBER ME Meeting, November
+      2017 (see also published comments listed above)
+  - id: 41
+    title: Large and State-dependent Effects of Quasi-random Monetary Experiments
+    pdflink: "/papers/SteinssonDiscussionJordaSchularickTaylorHandout.pdf"
+    book: by Oscar Jorda, Moritz Schularick, and Alan M. Taylor. Discussion at NBER ME Meeting, October
+      2016
+  - id: 42
+    title: Monetary Policy According to HANK
+    pdflink: "/papers/SteinssonDiscussionKaplanMollViolanteHandout.pdf"
+    book: by Greg Kaplan, Ben Moll, and Gianluca Violante. Discussion at NBER EF&G Meeting, February 2016
+  - id: 43
+    title: The Forward Premium Puzzle
+    pdflink: "/papers/DNGPdiscussionSteinsson.pdf"
+    book: >-
+      by Marco Del Negro, Marc Giannoni, and Christina Patterson. Discussion at NBER EF&G Meeting, October
+      2015
+- id: popular-writing
+  title: Popular Writing
+  works:
+  - id: 44
+    title: Thoughts on AJR's Nobel Prize
+    pdflink: "/papers/ThoughtsOnAJRNobelPrize.pdf"
+    book: October 2024 (and September 2025).
+  - id: 45
+    title: A Painless Disinflation Is No Longer Plausible
+    pdflink: >-
+      https://www.economist.com/by-invitation/2022/05/13/jon-steinsson-believes-that-a-painless-disinflation-is-no-longer-plausible
+    book: "*[Economist](http://www.economist.com/)*; May 13th 2022."
+  - id: 46
+    title: How Should the Fed Respond to the Highest Inflation in 40 Years?
+    pdflink: https://pairagraph.com/dialogue/fd80f947e4de4a2e85bdb209aa612bd1/1
+    book: a debate with Claudia Sahm, *[Pairagraph](https://pairagraph.com/)*, December 2021.
+  - id: 47
+    title: A New Macroeconomics?
+    pdflink: "/papers/ANewMacro.pdf"
+    book: July 2nd 2021.
+  - id: 48
+    title: Iceland's Experience May Offer a Lesson
+    pdflink: "/papers/2015FTLessonsfromIceland.pdf"
+    book: "*[Financial Times](http://www.ft.com/)*; June 29th 2015."
+  - id: 49
+    title: Don't Replace Data with Ideology
+    pdflink: "/papers/waronstats_web.pdf"
+    coauthors: with Emi Nakamura and Nicolas Vincent
+    book: "*[Bloomberg View](http://www.bloomberg.com/view/)*; June 12th 2012."
