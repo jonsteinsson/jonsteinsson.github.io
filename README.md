@@ -4,10 +4,10 @@ This guide explains the basic workflow for updating the website.
 
 ## What You Need
 
+- A machine with a Terminal or Command Prompt app.
 - A code editor (VS Code or similar).
-- Terminal app.
+- [Git](https://git-scm.com/) and [Hugo](https://gohugo.io/) installed.
 - [GitHub Desktop](https://desktop.github.com/).
-- Hugo installed on your device.
 
 ## Where Things Live
 
