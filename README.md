@@ -4,7 +4,7 @@ This guide explains the basic workflow for updating the website.
 
 ## What You Need
 
-- A machine with a Terminal or Command Prompt app.
+- A standard computer with a Terminal or Command Prompt app.
 - A code editor ([VS Code](https://code.visualstudio.com/) or similar).
 - [Git](https://git-scm.com/) and [Hugo](https://gohugo.io/) installed.
 - [GitHub Desktop](https://desktop.github.com/).
