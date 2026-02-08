@@ -42,7 +42,7 @@ Do not manually edit `public/` (it is generated automatically).
 8. Click **Commit to main**.
 9. Click **Push origin**.
 
-## How To Add a New Paper
+### How To Add a New Paper
 
 1. Add the paper PDF (and any replication `.zip` or data files) to:
    - `static/papers/`
@@ -68,7 +68,7 @@ Do not manually edit `public/` (it is generated automatically).
 6. Preview with `hugo serve`.
 7. If it looks good, commit and push from GitHub Desktop.
 
-## Other Common Edits
+### Other Common Edits
 
 - Edit an existing paper: update its entry in `content/research-list.yaml`.
 - Reorder papers: move entries up/down within `works:` (inside `content/research-list.yaml`).
