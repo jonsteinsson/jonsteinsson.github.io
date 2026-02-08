@@ -51,19 +51,28 @@ Do not manually edit `public/` (it is generated automatically).
 3. Add a new entry in the correct section under `works:` using this format:
 
 ```yaml
-- id: (unique identifier, e.g. 999)
-  title: "Paper title"
-  pdflink: "/papers/your-paper-file.pdf"
-  coauthors: "with [Coauthor Name](https://example.com)"
-  book: "Optional publication/status line (example: 'by Oscar Jorda, Moritz Schularick, and Alan M. Taylor. Discussion at NBER ME Meeting, October 2016')"
-  abstract: >-
-    Optional abstract text.
-  links:
-  - text: "Replication Package"
-    url: "/papers/your-replication-file.zip"
+sections:
+  - id: (relevant section id, e.g., working-papers)
+    title: (relevant section title, e.g., Working Papers)
+    works:
+      - id:(unique identifier, e.g. 999)
+        title: "Paper title"
+        pdflink: "/papers/your-paper-file.pdf"
+        coauthors: "with [Coauthor Name](https://coauthor-website.com)"
+        book: "Optional publication/status line (example: '*Journal Name*, volume(issue), pages, year', or 'by Oscar Jorda, Moritz Schularick, and Alan M. Taylor. Discussion at NBER ME Meeting, October 2016')."
+        notes:
+          - "Optional extra line"
+        abstract: >
+          Abstract text.
+        links:
+          - text: "Appendix"
+            url: "/papers/appendix.pdf"
+            note: "Optional note"
+        link_notes:
+          - "Optional extra line (example: 'Press: [article1 (date)](https://article-link.com)')"
 ```
 
-4. Use a new `id` that is not already used.
+4. Ensure you use a new `id` that is not already used. The actual `id` value does not matter, as long as it is unique.
 5. Save the file.
 6. Preview with `hugo serve`.
 7. If it looks good, commit and push from GitHub Desktop.
