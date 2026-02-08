@@ -1,5 +1,5 @@
 {{ define "main" -}}
-<h2>Home</h2>
+<h2>Bio</h2>
 {{ $home := .GetPage "/home.md" }}
 {{ if not $home }}
 {{ $home = .GetPage "/sections/home.md" }}
@@ -7,4 +7,7 @@
 {{ with $home }}
 {{ .Content }}
 {{ end }}
+<hr>
+<h2 id="research">Research</h2>
+{{ partial "research-list.html" . }}
 {{- end }}

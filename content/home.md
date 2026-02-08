@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Bio"
 aliases:
   - /sections/home/
 ---
