@@ -23,23 +23,18 @@ Do not manually edit `public/` (it is generated automatically).
 
 ## Standard Workflow (Every Update)
 
-1. Navigate to the GitHub folder in your terminal: `/GitHub/jonsteinsson.github.io`.
-2. Make your content/file edits.
-3. Preview locally:
-   - Open Terminal
-   - Run:
-     ```bash
-     cd .../GitHub/jonsteinsson.github.io
-     hugo serve
-     ```
+1. Make your content/file edits.
+2. Preview locally:
+   - Open Terminal and navigate to the GitHub folder in your terminal: `/GitHub/jonsteinsson.github.io/`.
+   - Run `hugo server`.
    - Open the provided localhost link in your browser.
    - Verify that the changes look correct.
-4. Stop the preview server with `Control + C` in Terminal.
-5. Open GitHub Desktop.
-6. (Recommended) Review the changed files.
-7. Write a clear commit message (example: `Add working paper on ...`).
-8. Click **Commit to main**.
-9. Click **Push origin**.
+3. Stop the preview server with `Control + C` in Terminal.
+4. Open GitHub Desktop.
+5. (Recommended) Review the changed files.
+6. Write a clear commit message (example: `Add working paper on ...`).
+7. Click **Commit to main**.
+8. Click **Push origin**.
 
 ### How To Add a New Paper
 
