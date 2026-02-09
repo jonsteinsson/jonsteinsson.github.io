@@ -21,35 +21,37 @@
 {{ if gt $si 0 }}<hr>{{ end }}
 <h3 id="{{ $section.id }}">{{ $section.title }}</h3>
 {{ range $work := $section.works }}
+<div class="research-work">
 <h3 style="margin:20px 0 5px;">{{ with $work.pdflink }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}{{ $work.title }}{{ with $work.pdflink }}</a>{{ end }}</h3>
 {{ with $work.coauthors }}
 {{ $coauthors := . | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}
-<p style="margin:0 0 5px;">({{ $coauthors | safeHTML }})</p>
+<p class="work-muted" style="margin:0 0 5px;">({{ $coauthors | safeHTML }})</p>
 {{ end }}
 {{ with $work.book }}
 {{ $book := . | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}
-<p style="margin:0 0 5px;">{{ $book | safeHTML }}</p>
+<p class="work-muted" style="margin:0 0 5px;">{{ $book | safeHTML }}</p>
 {{ end }}
 {{ with $work.notes }}
 {{ range $note := . }}
 {{ $cleanNote := $note | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}
-<p style="margin:0 0 5px;">{{ $cleanNote | safeHTML }}</p>
+<p class="work-muted" style="margin:0 0 5px;">{{ $cleanNote | safeHTML }}</p>
 {{ end }}
 {{ end }}
 {{ with $work.abstract }}
-<p style="margin:0 0 5px;"><a href="javascript:toggle({{ $work.id }})">Abstract<span id="pubabslink_{{ $work.id }}"> (click to expand)</span></a><span id="pubabs_{{ $work.id }}" style="display:none;">: {{ . }}</span></p>
+<p class="work-abstract"><a class="abstract-toggle" href="javascript:toggle({{ $work.id }})"><span class="abstract-icon" aria-hidden="true">A</span>Abstract<span id="pubabslink_{{ $work.id }}"> (click to expand)</span></a><span class="work-abstract-text" id="pubabs_{{ $work.id }}" style="display:none;">: {{ . }}</span></p>
 {{ end }}
 {{ with $work.links }}
 {{ range $link := . }}
-<p style="margin:0 0 5px;"><a href="{{ $link.url }}" target="_blank" rel="noopener">{{ $link.text }}</a>{{ with $link.note }}{{ $cleanLinkNote := . | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}: {{ $cleanLinkNote | safeHTML }}{{ end }}</p>
+<p class="work-muted" style="margin:0 0 5px;"><a href="{{ $link.url }}" target="_blank" rel="noopener">{{ $link.text }}</a>{{ with $link.note }}{{ $cleanLinkNote := . | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}: {{ $cleanLinkNote | safeHTML }}{{ end }}</p>
 {{ end }}
 {{ end }}
 {{ with $work.link_notes }}
 {{ range $note := . }}
 {{ $cleanLinkNote := $note | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}
-<p style="margin:0 0 5px;">{{ $cleanLinkNote | safeHTML }}</p>
+<p class="work-muted" style="margin:0 0 5px;">{{ $cleanLinkNote | safeHTML }}</p>
 {{ end }}
 {{ end }}
+</div>
 {{ end }}
 {{ end }}
 

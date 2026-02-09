@@ -1,0 +1,55 @@
+a.macro-policy-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+img.macro-policy-icon {
+  width: 1em;
+  height: 1em;
+  bottom: 0;
+  border-radius: 2px;
+}
+
+.research-work .work-muted {
+  color: #6d6d6d;
+}
+
+.research-work .work-abstract {
+  margin: 0 0 5px;
+}
+
+a.abstract-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #eef5fb;
+  color: #1f6396;
+  font-weight: 700;
+}
+
+a.abstract-toggle:hover,
+a.abstract-toggle:focus {
+  background: #e2edf7;
+  color: #174f79;
+}
+
+a.abstract-toggle .abstract-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.2em;
+  height: 1.2em;
+  border-radius: 999px;
+  background: #1f6396;
+  color: #fff;
+  font-size: 0.72em;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.research-work .work-abstract-text {
+  color: #6d6d6d;
+}
