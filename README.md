@@ -23,8 +23,7 @@ Do not manually edit `public/` (it is generated automatically).
 
 ## Standard Workflow (Every Update)
 
-1. Open this folder in your editor:
-   - `/GitHub/jonsteinsson.github.io`
+1. Navigate to the GitHub folder in your terminal: `/GitHub/jonsteinsson.github.io`.
 2. Make your content/file edits.
 3. Preview locally:
    - Open Terminal
@@ -44,10 +43,8 @@ Do not manually edit `public/` (it is generated automatically).
 
 ### How To Add a New Paper
 
-1. Add the paper PDF (and any replication `.zip` or data files) to:
-   - `static/papers/`
-2. Open:
-   - `content/research-list.yaml`
+1. Add the paper PDF (and any replication `.zip` or data files) to `static/papers/`. If a `.zip` file is larger than 100 mb, you will not be able to push it onto GitHub. In that case, upload the file to Google Drive and add a link to it in the research section. 
+2. Open `content/research-list.yaml`.
 3. Add a new entry in the correct section under `works:` using this format:
 
 ```yaml
