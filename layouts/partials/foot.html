@@ -18,5 +18,41 @@
             }
 		}
 	</script>
+    <script>
+        (function () {
+            var phoneQuery = window.matchMedia("(max-width: 768px)");
+            var pdfPattern = /\.pdf($|[?#])/i;
+
+            function updateDesktopNewTabLinks() {
+                var links = document.querySelectorAll("a[href], a[data-desktop-new-tab='true']");
+                var isPhone = phoneQuery.matches;
+
+                links.forEach(function (link) {
+                    var href = link.getAttribute("href") || "";
+                    var isExplicitDesktopLink = link.getAttribute("data-desktop-new-tab") === "true";
+                    var isPdfLink = pdfPattern.test(href);
+
+                    if (!isExplicitDesktopLink && !isPdfLink) {
+                        return;
+                    }
+
+                    if (isPhone) {
+                        link.removeAttribute("target");
+                        link.removeAttribute("rel");
+                    } else {
+                        link.setAttribute("target", "_blank");
+                        link.setAttribute("rel", "noopener noreferrer");
+                    }
+                });
+            }
+
+            updateDesktopNewTabLinks();
+            if (phoneQuery.addEventListener) {
+                phoneQuery.addEventListener("change", updateDesktopNewTabLinks);
+            } else if (phoneQuery.addListener) {
+                phoneQuery.addListener(updateDesktopNewTabLinks);
+            }
+        })();
+    </script>
   </body>
 </html>
