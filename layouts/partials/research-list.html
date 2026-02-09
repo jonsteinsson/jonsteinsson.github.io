@@ -19,7 +19,7 @@
 
 {{ range $si, $section := $sections }}
 {{ if gt $si 0 }}<hr>{{ end }}
-<h2 id="{{ $section.id }}">{{ $section.title }}</h2>
+<h3 id="{{ $section.id }}">{{ $section.title }}</h3>
 {{ range $work := $section.works }}
 <h3 style="margin:20px 0 5px;">{{ with $work.pdflink }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}{{ $work.title }}{{ with $work.pdflink }}</a>{{ end }}</h3>
 {{ with $work.coauthors }}
