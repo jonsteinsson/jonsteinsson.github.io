@@ -341,7 +341,8 @@ sections:
       url: "/papers/OldCPIReplication.zip"
     link_notes:
     - >-
-      Press: [WSJ (8/19/16)](http://blogs.wsj.com/economics/2016/08/19/the-case-for-raising-the-feds-inflation-target/), [FT (3/16/18)](https://www.ft.com/content/89792200-2972-11e8-b27e-cc62a39d57a0), [Forbes (8/19/16)](http://www.forbes.com/sites/jeffreydorfman/2016/08/19/inflation-is-still-bad-for-the-economy/#279831e854be)
+      Press: [WSJ (8/19/16)](http://blogs.wsj.com/economics/2016/08/19/the-case-for-raising-the-feds-inflation-target/), 
+      [FT (3/16/18)](https://www.ft.com/content/89792200-2972-11e8-b27e-cc62a39d57a0), [Forbes (8/19/16)](http://www.forbes.com/sites/jeffreydorfman/2016/08/19/inflation-is-still-bad-for-the-economy/#279831e854be)
   - id: 17
     title: 'High Frequency Identification of Monetary Non-Neutrality: The Information Effect'
     pdflink: "/papers/realrate.pdf"
