@@ -25,7 +25,7 @@ Do not manually edit `public/` (it is generated automatically).
 
 1. Make your content/file edits.
 2. Preview locally:
-   - Open Terminal and navigate to the GitHub folder in your terminal: `/GitHub/jonsteinsson.github.io/`.
+   - Open Terminal and navigate to the GitHub folder in your terminal: `C:\Dropbox\EmiJonShared\Webpages\jonsteinsson.github.io`.
    - Run `hugo serve`.
    - Open the provided localhost link in your browser.
    - Verify that the changes look correct.
