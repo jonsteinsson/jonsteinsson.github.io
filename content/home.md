@@ -1,10 +1,14 @@
 ---
-title: "Bio"
+title: "Home"
 aliases:
   - /sections/home/
 ---
 
-Jon Steinsson is the Marek Professor of Public Policy and Economics at the University of California at Berkeley. He is co-Director for the Monetary Economics program of the National Bureau of Economic Research and co-Editor of the Brookings Papers on Economic Activity. Professor Steinsson is a member of the American Academy of Arts and Sciences and a Fellow of the Econometric Society. He holds a Ph.D. in Economics from Harvard University. He taught at Columbia University before moving to Berkeley. His main area of research is empirical macroeconomics with a focus on monetary economics and business cycles.
+Welcome to my website. I am the Marek Professor of Public Policy and Economics at the University of California at Berkeley. I am also co-Director for the Monetary Economics program of the National Bureau of Economic Research and co-Editor of the Brookings Papers on Economic Activity. I am a member of the American Academy of Arts and Sciences and a Fellow of the Econometric Society. I hold a Ph.D. in Economics from Harvard University and an A.B. from Princeton University. 
+
+My main area of research is empirical macroeconomics with a focus on monetary economics and business cycles. 
+
+I teach Intermediate Macroeconomics at the undergraduate level (Econ 101B) and co-teach the fall semester of the first-year macroeconomics sequence in our PhD program (Econ 202A). I am writing a textbook on Intermediate Macroeconomics. Seven chapters of this book are avaiable under [teaching](teaching) as well as all my undergraduate and graduate lecture slides. I hope you find these useful. 
 
 University of California, Berkeley  
 Department of Economics  
