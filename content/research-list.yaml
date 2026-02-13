@@ -3,7 +3,7 @@ sections:
 - id: working-papers
   title: Working Papers
   works:
-  - id: 1
+  - id: 49
     title: 'Disentangling Age, Time, and Cohort Effects in Income Inequality: A Proxy Machine Learning
       Approach'
     pdflink: "/papers/ATC_Paper.pdf"
@@ -16,7 +16,7 @@ sections:
       cohort effects. Using this method, we estimate a significantly smaller slope of the age profile
       of income variance for the US than conventional methods, as well as less erratic slopes for 11
       other countries.
-  - id: 2
+  - id: 48
     title: Beyond the Taylor Rule
     pdflink: "/papers/Taylor_Rule.pdf"
     coauthors: >-
@@ -38,7 +38,7 @@ sections:
     links:
     - text: Replication Package
       url: "/papers/TaylorReplication.zip"
-  - id: 3
+  - id: 47
     title: Macroeconomic Effects of UI Extensions at Short and Long Durations
     pdflink: "/papers/UI.pdf"
     coauthors: >-
@@ -57,7 +57,7 @@ sections:
 - id: survey-papers
   title: Survey Papers
   works:
-  - id: 4
+  - id: 46
     title: Identification in Macroeconomics
     pdflink: "/papers/macroempirics.pdf"
     coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
@@ -69,7 +69,7 @@ sections:
       url: "/papers/macroempiricsAppendix.pdf"
     - text: Replication Material
       url: "/papers/ReplicationIdMacro.zip"
-  - id: 5
+  - id: 45
     title: 'Price Rigidity: Microeconomic Evidence and Macroeconomic Implications'
     pdflink: "/papers/psurvey.pdf"
     coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
@@ -90,7 +90,7 @@ sections:
 - id: published-and-forthcoming
   title: Published And Forthcoming Research Papers
   works:
-  - id: 6
+  - id: 44
     title: The Macroeconomic Consequences of Exchange Rate Depreciations
     pdflink: "/papers/trilemma.pdf"
     coauthors: with [Masao Fukui](https://masaofukui.com) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
@@ -110,7 +110,7 @@ sections:
     links:
     - text: Replication Package
       url: https://drive.google.com/file/d/1HZA4dc1pHSTlSo3Y49Sl56XD_57fl2tR/view?usp=sharing
-  - id: 7
+  - id: 43
     title: A Plucking Model of Business Cycles
     pdflink: "/papers/plucking.pdf"
     coauthors: >-
@@ -134,7 +134,7 @@ sections:
       url: "/papers/pluckingReplication.zip"
     - text: Appendix
       url: "/papers/PluckingAppendix.pdf"
-  - id: 8
+  - id: 42
     title: When Did Growth Begin? New Estimates of Productivity Growth in England from 1250 to 1870
     pdflink: "/papers/malthus.pdf"
     coauthors: >-
@@ -160,7 +160,7 @@ sections:
       url: "/papers/malthusAppendix.pdf"
     - text: Replication Package
       url: "/papers/bns_replication.zip"
-  - id: 9
+  - id: 41
     title: Learning About the Long Run
     pdflink: "/papers/learning.pdf"
     coauthors: >-
@@ -179,7 +179,7 @@ sections:
       url: "/papers/learning_appendix.pdf"
     - text: Replication Package
       url: https://drive.google.com/file/d/1vI0Z1wt_Ng7wieIbzTf5qEUI0N3dv4fY/view?usp=sharing
-  - id: 10
+  - id: 40
     title: Women, Wealth Effects, and Slow Recoveries
     pdflink: "/papers/femalelabor.pdf"
     coauthors: with [Masao Fukui](https://masaofukui.com) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
@@ -197,7 +197,7 @@ sections:
       url: "/papers/femalelabor_Appendix.pdf"
     - text: Replication Package
       url: https://www.openicpsr.org/openicpsr/project/149321/version/V1/view
-  - id: 11
+  - id: 39
     title: 'The Slope of the Phillips Curve: Evidence from U.S. States'
     pdflink: "/papers/StateLevelCPIs.pdf"
     coauthors: >-
@@ -226,7 +226,7 @@ sections:
       url: "/papers/StateCPIData_readme.pdf"
     - text: Replication Package
       url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OQNZYE
-  - id: 12
+  - id: 38
     title: 'The Gift of Moving: Intergenerational Consequences of a Mobility Shock'
     pdflink: "/papers/giftofmoving.pdf"
     coauthors: >-
@@ -252,7 +252,7 @@ sections:
       url: "/papers/Gift_of_Moving_Replication.zip"
     - text: Slides
       url: "/papers/Westman_slides.pdf"
-  - id: 13
+  - id: 37
     title: 'Housing Wealth Effects: The Long View'
     pdflink: "/papers/longview.pdf"
     coauthors: >-
@@ -282,7 +282,7 @@ sections:
       url: "/papers/LongViewOnlineAppendix.pdf"
     - text: Replication Files
       url: https://drive.google.com/file/d/1TpzhYr0-O9nCMOxGa9xG7ug-NDVLyq6Q/view?usp=sharing
-  - id: 14
+  - id: 36
     title: What Do We Learn From Cross-Regional Empirical Estimates in Macroeconomics
     pdflink: "/papers/PEtoGE.pdf"
     coauthors: >-
@@ -294,7 +294,7 @@ sections:
       url: "/papers/OnlineAppendix_WhatDoWeLearn.pdf"
     - text: Replication Files
       url: "/papers/PEtoGE_Replication.zip"
-  - id: 15
+  - id: 35
     title: New Evidence on the Cyclicality of Employer-to-Employer Flows from Canada
     pdflink: "/papers/cwfpp.pdf"
     coauthors: >-
@@ -306,7 +306,7 @@ sections:
       url: "/papers/ReplicationCWFPP.zip"
       note: >-
         Companion paper: [Worker Reallocation over the Business Cycle: Evidence from Canada](/papers/cwf.pdf)
-  - id: 16
+  - id: 34
     title: 'The Elusive Costs of Inflation: Price Dispersion during the U.S. Great Inflation'
     pdflink: "/papers/costsinflation.pdf"
     coauthors: >-
@@ -343,7 +343,7 @@ sections:
     - >-
       Press: [WSJ (8/19/16)](http://blogs.wsj.com/economics/2016/08/19/the-case-for-raising-the-feds-inflation-target/), 
       [FT (3/16/18)](https://www.ft.com/content/89792200-2972-11e8-b27e-cc62a39d57a0), [Forbes (8/19/16)](http://www.forbes.com/sites/jeffreydorfman/2016/08/19/inflation-is-still-bad-for-the-economy/#279831e854be)
-  - id: 17
+  - id: 33
     title: 'High Frequency Identification of Monetary Non-Neutrality: The Information Effect'
     pdflink: "/papers/realrate.pdf"
     coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
@@ -373,7 +373,7 @@ sections:
       note: >-
         Policy News Shocks constructed by Acosta, Brennan, and Jacobson for an
         updated sample period may be found [here](https://www.acostamiguel.com/research.html).
-  - id: 18
+  - id: 32
     title: 'The Discounted Euler Equation: A Note'
     pdflink: "/papers/discountedEuler.pdf"
     coauthors: >-
@@ -386,7 +386,7 @@ sections:
       of a rich model with uninsurable income risk and borrowing constraints in response to a forward guidance
       shock. The model is simple enough to be easily incorporated into simple New Keynesian models. We
       illustrate this with an application to the zero lower bound.
-  - id: 19
+  - id: 31
     title: Informational Rigidities and the Stickiness of Temporary Sales
     pdflink: "/papers/stickysales.pdf"
     coauthors: >-
@@ -402,7 +402,7 @@ sections:
       reinforces these findings. Institutional evidence indicates that sales are complex contingent
       contracts, determined substantially in advance. In a standard price-discrimination model,
       these institutional practices leave little money “on the table”.
-  - id: 20
+  - id: 30
     title: 'Growth-Rate and Uncertainty Shocks in Consumption: Cross-Country Evidence'
     pdflink: "/papers/longrunrisk.pdf"
     coauthors: >-
@@ -425,7 +425,7 @@ sections:
       url: "/papers/longrunrisk_figureA1.pdf"
     - text: Data and Programs
       url: "/papers/LRRDataAndPrograms.zip"
-  - id: 21
+  - id: 29
     title: The Power of Forward Guidance Revisited
     pdflink: "/papers/forwardguidance.pdf"
     coauthors: >-
@@ -447,7 +447,7 @@ sections:
       url: "/papers/ForwardGuidanceReplication.zip"
     - text: Erratum
       url: "/papers/forwardguidanceErratum.pdf"
-  - id: 22
+  - id: 28
     title: Are Chinese Growth and Inflation Too Smooth? Evidence from Engel Curves
     pdflink: "/papers/chinainflation.pdf"
     coauthors: >-
@@ -468,7 +468,7 @@ sections:
       [Economist (3/15/14)](http://www.economist.com/news/finance-and-economics/21599051-chinas-official-figures-both-understate-and-overstate-inflation-alternative-view),
       [Wall Street Journal (2/14/14)](http://online.wsj.com/news/articles/SB10001424052702303704304579382471899917610?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702303704304579382471899917610.html),
       [Financial Times (12/2/13)](http://www.ft.com/intl/cms/s/0/73cc7b6a-584c-11e3-9da6-00144feabdc0.html#axzz2mMngGCpV)
-  - id: 23
+  - id: 27
     title: 'Fiscal Stimulus in a Monetary Union: Evidence from U.S. Regions'
     pdflink: "/papers/fiscal.pdf"
     coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
@@ -494,7 +494,7 @@ sections:
     - >-
       Vox Article: [Does Fiscal Stimulus Work in a Montary Union?](http://www.voxeu.org/index.php?q=node/7056)
       [Data and Programs](/papers/FiscalDataPrograms.zip)
-  - id: 24
+  - id: 26
     title: Crises and Recoveries in an Empirical Model of Consumption Disasters
     pdflink: "/papers/cdisasters.pdf"
     coauthors: >-
@@ -536,7 +536,7 @@ sections:
     - >-
       Press: [BusinessWeek (6/3/09)](/papers/200906BusinessWeek.pdf), [BusinessWeek (10/14/09)](/papers/200910BusinessWeek.pdf)
       [Comments on Gagnon, Mandel, and Vigfusson (2013)](/papers/CommentsOnGagnonMandelVigfusson.pdf)
-  - id: 26
+  - id: 24
     title: Price Setting in Forward-Looking Customer Markets
     pdflink: "/papers/habit.pdf"
     coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
@@ -554,7 +554,7 @@ sections:
       url: "/papers/habitwebapp.pdf"
     - text: Firm Price Commitments
       url: "/papers/HabitOnlineAppendix.pdf"
-  - id: 27
+  - id: 23
     title: Monetary Non-Neutrality in a Multi-Sector Menu Cost Model
     pdflink: "/papers/heterogeneity.pdf"
     coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
@@ -583,7 +583,7 @@ sections:
       url: "/papers/MenuCostModelCode.zip"
     - text: Documentation
       url: "/papers/MenuCostModelReadme.pdf"
-  - id: 28
+  - id: 22
     title: 'Five Facts About Prices: A Reevaluation of Menu Cost Models'
     pdflink: "/papers/fivefacts.pdf"
     coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
@@ -613,7 +613,7 @@ sections:
         Press: [The Economist (11/9/06)](/papers/Economist200611.pdf), [Handelsblatt (2/8/10)](/papers/20100208Handelsblatt.pdf)
     link_notes:
     - 'Frequency of Price Change by ELI: [ELI table (PDF)](/papers/fivefactsELITable.pdf)'
-  - id: 29
+  - id: 21
     title: The Dynamic Behavior of the Real Exchange Rate in Sticky-Price Models
     pdflink: "/papers/persist.pdf"
     book: "*American Economic Review*, 98(1), 519-533, March 2008."
@@ -629,7 +629,7 @@ sections:
     - >-
       Appendix: [Derivation of the Model](/papers/persistappendix.pdf) Matlab Programs: [Empirical
       Programs](/papers/PersistEmpForWeb.zip)
-  - id: 30
+  - id: 20
     title: Optimal Monetary Policy in an Economy with Inflation Presistence
     pdflink: "/papers/STjme.pdf"
     book: "*Journal of Monetary Economics* 50(7), 1425-1456, October 2003."
@@ -654,7 +654,7 @@ sections:
 - id: published-essays-comments-and-discussions
   title: Published Essays, Comments, And Discussions
   works:
-  - id: 31
+  - id: 19
     title: Comment on "The International Monetary Transmission Mechanism"
     pdflink: "/papers/inttransmission.pdf"
     book: by Santiago Camara and Lawrence Christiano.
@@ -663,14 +663,14 @@ sections:
       url: "/papers/inttransmission_slides.pdf"
     link_notes:
     - "*NBER Macroeconomics Annual*, 141-148, April 2024."
-  - id: 32
+  - id: 18
     title: Thoughts on Fed Policy and the Fed's Framework
     pdflink: "/papers/FedFramework2024.pdf"
     book: in Bordon, M.D., J.H. Cochrane, and J.B. Taylor (ed),
     link_notes:
     - >-
       *Getting Global Monetary Policy on Track*, Hoover Institution Press, Stanford, CA., 2025, p. 363-373.
-  - id: 33
+  - id: 17
     title: Comment on "The Rise, the Fall, and the Resurrection of Iceland"
     pdflink: "/papers/SteinssonBrookingsCommentPublished2017.pdf"
     book: by Sigridur Benediksdottir, Gauti B. Eggertsson, and Eggert Thorarinsson.
@@ -681,38 +681,38 @@ sections:
 - id: unpublished-papers
   title: Unpublished Papers
   works:
-  - id: 34
+  - id: 16
     title: Monetary Economics at the NBER
     pdflink: "/papers/MoneyatNBER.pdf"
     coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
     book: December 2019.
-  - id: 35
+  - id: 15
     title: Should the Fed Ignore the Most Important Bias in the CPI?
     pdflink: "/papers/ignorethebias07.pdf"
     coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
     book: December 2007.
-  - id: 36
+  - id: 14
     title: The Implementation of Monetary Policy in an Era of Electronic Payment Systems
     pdflink: "/papers/ImplementMP.pdf"
     book: March 2005.
 - id: discussions
   title: Discussions
   works:
-  - id: 37
+  - id: 13
     title: Some International Evidence on Non-Linear Phillips Curves
     pdflink: "/papers/SteinssonBenignoEggertsson.pdf"
     book: Discussion of paper by Pierpaolo Benigno and Gauti Eggertsson at AEA Meetings, January 2024
-  - id: 38
+  - id: 12
     title: Fed Communication
     pdflink: "/papers/SteinssonFedCommunication.pdf"
     book: >-
       Discussion of paper by Stephen G. Cecchetti and Kermit L. Schoenholtz at Fed Listens conference,
       June 2019
-  - id: 39
+  - id: 11
     title: Identification in Macroeconomics
     pdflink: "/papers/idmacroChina.pdf"
     book: Presentation given at a conference on Frontiers of Macroeconomics in Shanghai, December 2018
-  - id: 40
+  - id: 10
     title: The Rise, the Fall, and the Resurrection of Iceland
     pdflink: "/papers/SteinssonBrookingsDiscussion2017.pdf"
     book: by Sigridur Benediksdottir, Gauti B. Eggertsson, and Eggert Thorarinsson.
@@ -720,16 +720,16 @@ sections:
     - >-
       Discussion at Brookings Panel on Economic Acticity, September 2017, and NBER ME Meeting, November
       2017 (see also published comments listed above)
-  - id: 41
+  - id: 9
     title: Large and State-dependent Effects of Quasi-random Monetary Experiments
     pdflink: "/papers/SteinssonDiscussionJordaSchularickTaylorHandout.pdf"
     book: by Oscar Jorda, Moritz Schularick, and Alan M. Taylor. Discussion at NBER ME Meeting, October
       2016
-  - id: 42
+  - id: 8
     title: Monetary Policy According to HANK
     pdflink: "/papers/SteinssonDiscussionKaplanMollViolanteHandout.pdf"
     book: by Greg Kaplan, Ben Moll, and Gianluca Violante. Discussion at NBER EF&G Meeting, February 2016
-  - id: 43
+  - id: 7
     title: The Forward Premium Puzzle
     pdflink: "/papers/DNGPdiscussionSteinsson.pdf"
     book: >-
@@ -738,28 +738,28 @@ sections:
 - id: popular-writing
   title: Popular Writing
   works:
-  - id: 44
+  - id: 6
     title: Thoughts on AJR's Nobel Prize
     pdflink: "/papers/ThoughtsOnAJRNobelPrize.pdf"
     book: October 2024 (and September 2025).
-  - id: 45
+  - id: 5
     title: A Painless Disinflation Is No Longer Plausible
     pdflink: >-
       https://www.economist.com/by-invitation/2022/05/13/jon-steinsson-believes-that-a-painless-disinflation-is-no-longer-plausible
     book: "*[Economist](http://www.economist.com/)*; May 13th 2022."
-  - id: 46
+  - id: 4
     title: How Should the Fed Respond to the Highest Inflation in 40 Years?
     pdflink: https://pairagraph.com/dialogue/fd80f947e4de4a2e85bdb209aa612bd1/1
     book: a debate with Claudia Sahm, *[Pairagraph](https://pairagraph.com/)*, December 2021.
-  - id: 47
+  - id: 3
     title: A New Macroeconomics?
     pdflink: "/papers/ANewMacro.pdf"
     book: July 2nd 2021.
-  - id: 48
+  - id: 2
     title: Iceland's Experience May Offer a Lesson
     pdflink: "/papers/2015FTLessonsfromIceland.pdf"
     book: "*[Financial Times](http://www.ft.com/)*; June 29th 2015."
-  - id: 49
+  - id: 1
     title: Don't Replace Data with Ideology
     pdflink: "/papers/waronstats_web.pdf"
     coauthors: with Emi Nakamura and Nicolas Vincent
