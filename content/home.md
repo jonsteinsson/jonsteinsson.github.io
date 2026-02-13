@@ -4,7 +4,7 @@ aliases:
   - /sections/home/
 ---
 
-Welcome to my website. I am the Marek Professor of Public Policy and Economics at the University of California at Berkeley. I am also co-Director for the Monetary Economics program of the National Bureau of Economic Research and co-Editor of the Brookings Papers on Economic Activity. I am a member of the American Academy of Arts and Sciences and a Fellow of the Econometric Society. I hold a Ph.D. in Economics from Harvard University and an A.B. from Princeton University. 
+Welcome to my website. I am the Marek Professor of Public Policy and Economics at the University of California at Berkeley. I am also co-Director for the Monetary Economics program of the National Bureau of Economic Research and co-Editor of the Brookings Papers on Economic Activity. I am a member of the American Academy of Arts and Sciences and a Fellow of the Econometric Society. I hold a Ph.D. in Economics from Harvard University and an A.B. from Princeton University. Here is my [curriculum vitae](cvjsweb.pdf).
 
 My main area of research is empirical macroeconomics with a focus on monetary economics and business cycles. 
 
