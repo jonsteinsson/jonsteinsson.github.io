@@ -305,7 +305,8 @@ sections:
     links:
     - text: Replication Files
       url: "/papers/ReplicationCWFPP.zip"
-      note: >-
+    link_notes: 
+    - >-
         Companion paper: [Worker Reallocation over the Business Cycle: Evidence from Canada](/papers/cwf.pdf)
   - id: 34
     title: 'The Elusive Costs of Inflation: Price Dispersion during the U.S. Great Inflation'
