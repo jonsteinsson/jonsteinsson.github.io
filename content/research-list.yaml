@@ -341,10 +341,6 @@ sections:
       url: "/papers/ELIconcordance.xls"
     - text: Replication Material
       url: "/papers/OldCPIReplication.zip"
-    link_notes:
-    - >-
-      Press: [WSJ (8/19/16)](http://blogs.wsj.com/economics/2016/08/19/the-case-for-raising-the-feds-inflation-target/), 
-      [FT (3/16/18)](https://www.ft.com/content/89792200-2972-11e8-b27e-cc62a39d57a0), [Forbes (8/19/16)](http://www.forbes.com/sites/jeffreydorfman/2016/08/19/inflation-is-still-bad-for-the-economy/#279831e854be)
   - id: 33
     title: 'High Frequency Identification of Monetary Non-Neutrality: The Information Effect'
     pdflink: "/papers/realrate.pdf"
@@ -464,12 +460,6 @@ sections:
       overstated. In contrast, inflation was overstated and growth understated during the low-inflation 1990s. These patterns hold for the
       food Engel curve, and for numerous other categories, such as grain
       as a fraction of food. 
-    link_notes:
-    - >-
-      Press: [Wall Street Journal (10/19/16)](http://www.wsj.com/articles/economists-question-chinas-consistent-growth-numbers-1476880761),
-      [Economist (3/15/14)](http://www.economist.com/news/finance-and-economics/21599051-chinas-official-figures-both-understate-and-overstate-inflation-alternative-view),
-      [Wall Street Journal (2/14/14)](http://online.wsj.com/news/articles/SB10001424052702303704304579382471899917610?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702303704304579382471899917610.html),
-      [Financial Times (12/2/13)](http://www.ft.com/intl/cms/s/0/73cc7b6a-584c-11e3-9da6-00144feabdc0.html#axzz2mMngGCpV)
   - id: 27
     title: 'Fiscal Stimulus in a Monetary Union: Evidence from U.S. Regions'
     pdflink: "/papers/fiscal.pdf"
@@ -536,7 +526,6 @@ sections:
       rate “pass-through” is substantially higher than conventional estimates suggest, and the terms of trade are substantially more volatile. 
     link_notes:
     - >-
-      Press: [BusinessWeek (6/3/09)](/papers/200906BusinessWeek.pdf), [BusinessWeek (10/14/09)](/papers/200910BusinessWeek.pdf)
       [Comments on Gagnon, Mandel, and Vigfusson (2013)](/papers/CommentsOnGagnonMandelVigfusson.pdf)
   - id: 24
     title: Price Setting in Forward-Looking Customer Markets
@@ -612,7 +601,7 @@ sections:
     - text: Tables from Supplement (Excel)
       url: "/papers/fivefactsTablesforWebSup.xls"
       note: >-
-        Press: [The Economist (11/9/06)](/papers/Economist200611.pdf), [Handelsblatt (2/8/10)](/papers/20100208Handelsblatt.pdf)
+        Press: [The Economist (11/9/06): Sticky Situation](/papers/Economist200611.pdf)
     link_notes:
     - 'Frequency of Price Change by ELI: [ELI table (PDF)](/papers/fivefactsELITable.pdf)'
   - id: 21
