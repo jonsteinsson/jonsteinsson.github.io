@@ -459,7 +459,10 @@ sections:
       of reality. Official inflation rose in the 2000s, but our estimates indicate that true inflation was still higher and consumption growth was
       overstated. In contrast, inflation was overstated and growth understated during the low-inflation 1990s. These patterns hold for the
       food Engel curve, and for numerous other categories, such as grain
-      as a fraction of food. 
+      as a fraction of food.
+    link_notes:
+    - >-
+      [The Economist (3/15/14): An Alternative View](http://www.economist.com/news/finance-and-economics/21599051-chinas-official-figures-both-understate-and-overstate-inflation-alternative-view)
   - id: 27
     title: 'Fiscal Stimulus in a Monetary Union: Evidence from U.S. Regions'
     pdflink: "/papers/fiscal.pdf"
@@ -601,7 +604,7 @@ sections:
     - text: Tables from Supplement (Excel)
       url: "/papers/fivefactsTablesforWebSup.xls"
       note: >-
-        Press: [The Economist (11/9/06): Sticky Situation](/papers/Economist200611.pdf)
+        Press: [The Economist (11/9/06): Sticky Situations](/papers/Economist200611.pdf)
     link_notes:
     - 'Frequency of Price Change by ELI: [ELI table (PDF)](/papers/fivefactsELITable.pdf)'
   - id: 21
