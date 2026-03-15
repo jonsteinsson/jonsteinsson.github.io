@@ -368,9 +368,9 @@ sections:
       url: "/papers/realratesreplication.zip"
     - text: Policy News Shocks (original sample period)
       url: "/papers/PolicyNewsShocksWeb.xlsx"
-      note: >-
-        Policy News Shocks constructed by Acosta, Brennan, and Jacobson for an
-        updated sample period may be found [here](https://www.acostamiguel.com/research.html).
+    link_notes:
+    - >-
+        [Policy News Shocks (updated sample period)](https://www.acostamiguel.com/research.html) constructed by Acosta, Brennan, and Jacobson.
   - id: 32
     title: 'The Discounted Euler Equation: A Note'
     pdflink: "/papers/discountedEuler.pdf"
