@@ -568,15 +568,9 @@ sections:
       multisector model with intermediate inputs generates variation in real output in
       response to calibrated aggregate nominal shocks that can account for roughly 23%
       of the U.S. business cycle.
-    links:
-    - text: Erratum
-      url: "/papers/MultisectorErratum.pdf"
-    - text: Appendix
-      url: "/papers/heterogeneityAppendix.pdf"
-    - text: Replication Code
-      url: "/papers/MenuCostModelCode.zip"
-    - text: Documentation
-      url: "/papers/MenuCostModelReadme.pdf"
+    resources:
+      - type: note
+        text: "[Erratum](/papers/MultisectorErratum.pdf) -- [Appendix](/papers/heterogeneityAppendix.pdf) -- [Replication Code](/papers/MenuCostModelCode.zip) -- [Documentation](/papers/MenuCostModelReadme.pdf)"
   - id: 22
     title: 'Five Facts About Prices: A Reevaluation of Menu Cost Models'
     pdflink: "/papers/fivefacts.pdf"
