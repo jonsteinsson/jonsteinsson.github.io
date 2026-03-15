@@ -596,17 +596,10 @@ sections:
       first, second, and third facts are consistent with a benchmark menu-cost model,
       whereas the fourth and fifth facts are not.
     resources:
-      - type: link
-        text: Tables (Excel)
-        url: "/papers/fivefactsTablesForWeb.xls"
-      - type: link
-        text: Tables from Supplement (Excel)
-        url: "/papers/fivefactsTablesforWebSup.xls"
+      - type: note
+        text: "[Tables (Excel)](/papers/fivefactsTablesForWeb.xls) -- [Tables from Supplement (Excel)](/papers/fivefactsTablesforWebSup.xls) -- [ELI table (Excel)](/papers/fivefactsELITableSup1.xls)"
       - type: note
         text: "Supplementary Material: [More Facts About Prices](/papers/fivefactssupplement.pdf)"
-      - type: link
-        text: ELI table (Excel)
-        url: "/papers/fivefactsELITableSup1.xls"
       - type: note
         text: "Frequency of Price Change by ELI: [ELI table (PDF)](/papers/fivefactsELITable.pdf)"
       - type: note
