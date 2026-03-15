@@ -543,11 +543,9 @@ sections:
       incomplete information about costs and demand, the firm-preferred equilibrium has
       the firm price at or below a "price cap." The model therefore provides an explanation for
       the simultaneous existence of a rigid regular price and frequent "sales".
-    links:
-    - text: Technical Appendix
-      url: "/papers/habitwebapp.pdf"
-    - text: Firm Price Commitments
-      url: "/papers/HabitOnlineAppendix.pdf"
+    resources:
+      - type: note
+        text: "[Technical Appendix](/papers/habitwebapp.pdf) -- [Firm Price Commitments](/papers/HabitOnlineAppendix.pdf)"
   - id: 23
     title: Monetary Non-Neutrality in a Multi-Sector Menu Cost Model
     pdflink: "/papers/heterogeneity.pdf"
