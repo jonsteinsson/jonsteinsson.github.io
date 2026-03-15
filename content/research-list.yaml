@@ -595,18 +595,22 @@ sections:
       is highest in the first quarter and then declines. (5) We find no evidence of upwardsloping hazard functions of price changes for individual products. We show that the
       first, second, and third facts are consistent with a benchmark menu-cost model,
       whereas the fourth and fifth facts are not.
-    links:
-    - text: ELI table (Excel)
-      url: "/papers/fivefactsELITableSup1.xls"
-      note: >-
-        Supplementary Material: [More Facts About Prices](/papers/fivefactssupplement.pdf)
-        Tables in Excel: [Tables from Paper](/papers/fivefactsTablesForWeb.xls)
-    - text: Tables from Supplement (Excel)
-      url: "/papers/fivefactsTablesforWebSup.xls"
-      note: >-
-        Press: [The Economist (11/9/06): Sticky Situations](/papers/Economist200611.pdf)
-    link_notes:
-    - 'Frequency of Price Change by ELI: [ELI table (PDF)](/papers/fivefactsELITable.pdf)'
+    resources:
+      - type: link
+        text: Tables (Excel)
+        url: "/papers/fivefactsTablesForWeb.xls"
+      - type: link
+        text: Tables from Supplement (Excel)
+        url: "/papers/fivefactsTablesforWebSup.xls"
+      - type: note
+        text: "Supplementary Material: [More Facts About Prices](/papers/fivefactssupplement.pdf)"
+      - type: link
+        text: ELI table (Excel)
+        url: "/papers/fivefactsELITableSup1.xls"
+      - type: note
+        text: "Frequency of Price Change by ELI: [ELI table (PDF)](/papers/fivefactsELITable.pdf)"
+      - type: note
+        text: "[The Economist (11/9/06): Sticky Situations](/papers/Economist200611.pdf)"
   - id: 21
     title: The Dynamic Behavior of the Real Exchange Rate in Sticky-Price Models
     pdflink: "/papers/persist.pdf"

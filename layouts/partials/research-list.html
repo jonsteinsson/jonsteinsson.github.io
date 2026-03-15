@@ -40,6 +40,16 @@
 {{ with $work.abstract }}
 <p class="work-abstract"><a class="abstract-toggle" href="javascript:toggle({{ $work.id }})"><span class="abstract-icon" aria-hidden="true">A</span>Abstract<span id="pubabslink_{{ $work.id }}"> (click to expand)</span></a><span class="work-abstract-text" id="pubabs_{{ $work.id }}" style="display:none;">: {{ . }}</span></p>
 {{ end }}
+{{ with $work.resources }}
+{{ range $resource := . }}
+{{ if eq $resource.type "link" }}
+<p class="work-muted" style="margin:0 0 5px;"><a href="{{ $resource.url }}" target="_blank" rel="noopener">{{ $resource.text }}</a>{{ with $resource.note }}{{ $cleanResourceNote := . | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}: {{ $cleanResourceNote | safeHTML }}{{ end }}</p>
+{{ else if eq $resource.type "note" }}
+{{ $cleanResourceText := $resource.text | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}
+<p class="work-muted" style="margin:0 0 5px;">{{ $cleanResourceText | safeHTML }}</p>
+{{ end }}
+{{ end }}
+{{ else }}
 {{ with $work.links }}
 {{ range $link := . }}
 <p class="work-muted" style="margin:0 0 5px;"><a href="{{ $link.url }}" target="_blank" rel="noopener">{{ $link.text }}</a>{{ with $link.note }}{{ $cleanLinkNote := . | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}: {{ $cleanLinkNote | safeHTML }}{{ end }}</p>
@@ -49,6 +59,7 @@
 {{ range $note := . }}
 {{ $cleanLinkNote := $note | markdownify | replaceRE "^<p>|</p>\\n?$" "" }}
 <p class="work-muted" style="margin:0 0 5px;">{{ $cleanLinkNote | safeHTML }}</p>
+{{ end }}
 {{ end }}
 {{ end }}
 </div>
