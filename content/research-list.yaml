@@ -447,11 +447,9 @@ sections:
       constraints, a precautionary savings effect tempers their responses to
       changes in future interest rates. As a consequence, forward guidance
       has substantially less power to stimulate the economy
-    links:
-    - text: Programs
-      url: "/papers/ForwardGuidanceReplication.zip"
-    - text: Erratum
-      url: "/papers/forwardguidanceErratum.pdf"
+    resources:
+      - type: note
+        text: "[Programs and Data](/papers/ForwardGuidanceReplication.zip) -- [Erratum](/papers/forwardguidanceErratum.pdf)"
   - id: 28
     title: Are Chinese Growth and Inflation Too Smooth? Evidence from Engel Curves
     pdflink: "/papers/chinainflation.pdf"
