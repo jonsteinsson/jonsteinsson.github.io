@@ -422,7 +422,7 @@ sections:
       and shock-price elasticities.
     resources:
       - type: note
-        text: "[Figure A.1](/papers/longrunrisk_figureA1.pdf) -- [Data and Programs](/papers/LRRDataAndPrograms.zip)
+        text: "[Figure A.1](/papers/longrunrisk_figureA1.pdf) -- [Data and Programs](/papers/LRRDataAndPrograms.zip)"
   - id: 29
     title: The Power of Forward Guidance Revisited
     pdflink: "/papers/forwardguidance.pdf"
