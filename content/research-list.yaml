@@ -607,18 +607,11 @@ sections:
     title: The Dynamic Behavior of the Real Exchange Rate in Sticky-Price Models
     pdflink: "/papers/persist.pdf"
     book: "*American Economic Review*, 98(1), 519-533, March 2008."
-    links:
-    - text: Theoretical Programs
-      url: "/papers/PersistModelForWeb.zip"
-    - text: Documentation
-      url: "/papers/persistReadme.pdf"
-      note: "[Erratum](/papers/persistErratum.pdf)"
-    - text: Response to Iversen and Söderström (2014)
-      url: "/papers/ResponseToIversenAndSoderstrom.pdf"
-    link_notes:
-    - >-
-      Appendix: [Derivation of the Model](/papers/persistappendix.pdf) Matlab Programs: [Empirical
-      Programs](/papers/PersistEmpForWeb.zip)
+    resources:
+      - type: note
+        text: "[Theoretical Programs](/papers/PersistModelForWeb.zip) -- [Documentation](/papers/persistReadme.pdf) -- [Response to Iversen and Söderström (2014)](/papers/ResponseToIversenAndSoderstrom.pdf)"
+      - type: note
+        text: "Appendix: [Derivation of the Model](/papers/persistappendix.pdf) Matlab Programs: [Empirical Programs](/papers/PersistEmpForWeb.zip)"
   - id: 20
     title: Optimal Monetary Policy in an Economy with Inflation Presistence
     pdflink: "/papers/STjme.pdf"
