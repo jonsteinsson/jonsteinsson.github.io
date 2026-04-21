@@ -485,17 +485,13 @@ sections:
       these effects because monetary and tax policies are uniform across
       the nation. Our evidence indicates that demand shocks can have
       large effects on output. 
-    links:
-    - text: Technical Appendix
-      url: "/papers/fiscalAppendix.pdf"
-    - text: Erratum
-      url: "/papers/ErratumFiscal.pdf"
-    - text: How to Get Military Prime Contract Data
-      url: "/papers/HowToGetMilitaryPrimeContractData.pdf"
-    link_notes:
-    - >-
-      Vox Article: [Does Fiscal Stimulus Work in a Montary Union?](http://www.voxeu.org/index.php?q=node/7056)
-      [Data and Programs](/papers/FiscalDataPrograms.zip)
+    resources:
+      - type: note
+        text: "[Technical Appendix](/papers/fiscalAppendix.pdf) -- [Data and Programs](/papers/FiscalDataPrograms.zip) -- [Erratum](/papers/ErratumFiscal.pdf)"
+      - type: note
+        text: "[How to Get Military Prime Contract Data](/papers/HowToGetMilitaryPrimeContractData.pdf)"
+      - type: note
+        text: "Vox Article: [Does Fiscal Stimulus Work in a Montary Union?](http://www.voxeu.org/index.php?q=node/7056)"
   - id: 26
     title: Crises and Recoveries in an Empirical Model of Consumption Disasters
     pdflink: "/papers/cdisasters.pdf"
