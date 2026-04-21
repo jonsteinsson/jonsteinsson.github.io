@@ -516,7 +516,7 @@ sections:
       - type: note
         text: "[Technical Appendix](/papers/cdisasterswebappendix.pdf) -- [Data and Programs](/papers/DisastersDataAndPrograms.zip)"
       - type: link
-        text: Vox Article: [Disasters, Recoveries, and the Equity Premium](http://www.voxeu.org/index.php?q=node/5277)
+        text: "Vox Article: [Disasters, Recoveries, and the Equity Premium](http://www.voxeu.org/index.php?q=node/5277)"
   - id: 25
     title: 'Lost in Transit: Product Replacement Bias and Pricing to Market'
     pdflink: "/papers/ippsubs.pdf"
