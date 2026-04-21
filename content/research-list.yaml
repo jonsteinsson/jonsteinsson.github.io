@@ -366,18 +366,13 @@ sections:
       about other economic fundamentals. Our model implies that these information
       effects play an important role in the overall causal effect of monetary policy shocks
       on output.
-    links:
-    - text: Appendix
-      url: "/papers/realrateAppendix.pdf"
-    - text: Slides
-      url: "/papers/realrates_slides.pdf"
-    - text: Replication Files
-      url: "/papers/realratesreplication.zip"
-    - text: Policy News Shocks (original sample period)
-      url: "/papers/PolicyNewsShocksWeb.xlsx"
-    link_notes:
-    - >-
-        [Policy News Shocks (updated sample period)](https://www.acostamiguel.com/research.html) constructed by Acosta, Brennan, and Jacobson.
+    resources:
+      - type: note
+        text: "[Appendix](/papers/realrateAppendix.pdf) -- [Slides](/papers/realrates_slides.pdf) -- [Replication Files](/papers/realratesreplication.zip)"
+      - type: note
+        text: "[Policy News Shocks (original sample period)](/papers/PolicyNewsShocksWeb.xlsx)" 
+      - type: note
+        text: "[Policy News Shocks (updated sample period)](https://www.acostamiguel.com/research.html) constructed by Acosta, Brennan, and Jacobson."
   - id: 32
     title: 'The Discounted Euler Equation: A Note'
     pdflink: "/papers/discountedEuler.pdf"
