@@ -3,6 +3,13 @@ sections:
 - id: working-papers
   title: Working Papers
   works:
+  - id: 50
+    title: 'The Commoditization of Labor'
+    pdflink: "/papers/Commoditization.pdf"
+    coauthors: >-
+      with [Masao Fukui](https://masaofukui.com) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    abstract: >-
+      Technical change often simplifies jobs. This increases productivity, but it also makes workers more substitutable---or more "commoditized". Commoditization of labor drives down worker bargaining power: anyone can do the job, implying workers are disposable, which improves the outside option of firms and can lower worker wages. We develop a model that captures both the productivity enhancing and wage depressing effects of commoditizing technical change. Commoditizing technical change involves firms standardizing tasks which implies that output is less sensitive to worker quality. Firms benefit because they can more easily fill vacancies for their durable jobs. We show that our model can help explain the divergence between productivity and wages in the service sector, increasing wage markdowns despite falling local concentration, and the decline of the large-firm wage premium. 
   - id: 49
     title: 'Disentangling Age, Time, and Cohort Effects in Income Inequality: A Proxy Machine Learning
       Approach'
