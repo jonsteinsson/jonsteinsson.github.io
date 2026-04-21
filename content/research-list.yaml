@@ -609,9 +609,9 @@ sections:
     book: "*American Economic Review*, 98(1), 519-533, March 2008."
     resources:
       - type: note
-        text: "[Theoretical Programs](/papers/PersistModelForWeb.zip) -- [Documentation](/papers/persistReadme.pdf) -- [Response to Iversen and Söderström (2014)](/papers/ResponseToIversenAndSoderstrom.pdf)"
+        text: "[Theoretical Programs](/papers/PersistModelForWeb.zip) -- [Empirical Programs](/papers/PersistEmpForWeb.zip) -- [Documentation](/papers/persistReadme.pdf)"
       - type: note
-        text: "Appendix: [Derivation of the Model](/papers/persistappendix.pdf) -- Matlab Programs: [Empirical Programs](/papers/PersistEmpForWeb.zip)"
+        text: "[Appendix](/papers/persistappendix.pdf) -- [Response to Iversen and Söderström (2014)](/papers/ResponseToIversenAndSoderstrom.pdf)"
   - id: 20
     title: Optimal Monetary Policy in an Economy with Inflation Presistence
     pdflink: "/papers/STjme.pdf"
