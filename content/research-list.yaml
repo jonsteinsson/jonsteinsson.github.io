@@ -512,14 +512,11 @@ sections:
       in simpler models. It implies that a large value of the intertemporal
       elasticity of substitution is necessary to explain stock-market crashes
       at the onset of disasters.
-    links:
-    - text: Web Appendix
-      url: "/papers/cdisasterswebappendix.pdf"
-    - text: Data and Programs
-      url: "/papers/DisastersDataAndPrograms.zip"
-    link_notes:
-    - >-
-      Vox Article: [Disasters, Recoveries, and the Equity Premium](http://www.voxeu.org/index.php?q=node/5277)
+    resources:
+      - type: note
+        text: "[Technical Appendix](/papers/cdisasterswebappendix.pdf) -- [Data and Programs](/papers/DisastersDataAndPrograms.zip)"
+      - type: link
+        text: Vox Article: [Disasters, Recoveries, and the Equity Premium](http://www.voxeu.org/index.php?q=node/5277)
   - id: 25
     title: 'Lost in Transit: Product Replacement Bias and Pricing to Market'
     pdflink: "/papers/ippsubs.pdf"
