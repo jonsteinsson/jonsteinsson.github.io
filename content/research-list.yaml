@@ -482,7 +482,7 @@ sections:
       - type: note
         text: "[How to Get Military Prime Contract Data](/papers/HowToGetMilitaryPrimeContractData.pdf)"
       - type: note
-        text: "Vox Article: [Does Fiscal Stimulus Work in a Montary Union?](http://www.voxeu.org/index.php?q=node/7056)"
+        text: "Vox Article: [Does Fiscal Stimulus Work in a Montary Union?](https://cepr.org/voxeu/columns/does-fiscal-stimulus-work-monetary-union-evidence-us-regions)"
   - id: 26
     title: Crises and Recoveries in an Empirical Model of Consumption Disasters
     pdflink: "/papers/cdisasters.pdf"
@@ -503,7 +503,7 @@ sections:
       - type: note
         text: "[Technical Appendix](/papers/cdisasterswebappendix.pdf) -- [Data and Programs](/papers/DisastersDataAndPrograms.zip)"
       - type: note
-        text: "Vox Article: [Disasters, Recoveries, and the Equity Premium](http://www.voxeu.org/index.php?q=node/5277)"
+        text: "Vox Article: [Disasters, Recoveries, and the Equity Premium](https://cepr.org/voxeu/columns/disasters-recoveries-and-equity-premium)"
   - id: 25
     title: 'Lost in Transit: Product Replacement Bias and Pricing to Market'
     pdflink: "/papers/ippsubs.pdf"
