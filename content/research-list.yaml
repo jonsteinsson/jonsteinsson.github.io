@@ -611,7 +611,7 @@ sections:
       - type: note
         text: "[Theoretical Programs](/papers/PersistModelForWeb.zip) -- [Documentation](/papers/persistReadme.pdf) -- [Response to Iversen and Söderström (2014)](/papers/ResponseToIversenAndSoderstrom.pdf)"
       - type: note
-        text: "Appendix: [Derivation of the Model](/papers/persistappendix.pdf) Matlab Programs: [Empirical Programs](/papers/PersistEmpForWeb.zip)"
+        text: "Appendix: [Derivation of the Model](/papers/persistappendix.pdf) -- Matlab Programs: [Empirical Programs](/papers/PersistEmpForWeb.zip)"
   - id: 20
     title: Optimal Monetary Policy in an Economy with Inflation Presistence
     pdflink: "/papers/STjme.pdf"
@@ -619,8 +619,7 @@ sections:
     abstract: >-
       This paper studies optimal monetary policy in a model where inflation is persistent.
       Two types of price setters are assumed to exist. One acts rationally given Calvo-type
-      constraints on price setting. The other type sets prices according to a rule-of-thumb. This
-      results in a Phillips curve with both a forward-looking term and a backward-looking term.
+      constraints on price setting. The other type sets prices according to a rule-of-thumb. This results in a Phillips curve with both a forward-looking term and a backward-looking term.
       The Phillips curve nests a standard purely forward-looking Phillips curve as well as a
       standard purely backward-looking Phillips curve as special cases. A cost push supply
       shock is derived from microfoundations by adding a time varying income tax and by
@@ -629,11 +628,9 @@ sections:
       household's welfare function. Optimal monetary policy for different relative values of
       the forward- and backward-looking terms is then analyzed for both the commitment case and
       the case of discretion.
-    links:
-    - text: Erratum
-      url: "/papers/STjme03erratum.pdf"
-    - text: Programs
-      url: "/papers/STjme.zip"
+    resources:
+      - type: note
+        text: "[Erratum](/papers/STjme03erratum.pdf) -- [Programs](/papers/STjme.zip)"
 - id: published-essays-comments-and-discussions
   title: Published Essays, Comments, And Discussions
   works:
