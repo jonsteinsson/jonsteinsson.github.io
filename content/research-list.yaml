@@ -425,11 +425,9 @@ sections:
       backward engineered to fit asset pricing data. We provide intuition for
       our results using the recently developed framework of shock-exposure
       and shock-price elasticities.
-    links:
-    - text: Figure A.1
-      url: "/papers/longrunrisk_figureA1.pdf"
-    - text: Data and Programs
-      url: "/papers/LRRDataAndPrograms.zip"
+    resources:
+      - type: note
+        text: "[Figure A.1](/papers/longrunrisk_figureA1.pdf) -- [Data and Programs](/papers/LRRDataAndPrograms.zip)
   - id: 29
     title: The Power of Forward Guidance Revisited
     pdflink: "/papers/forwardguidance.pdf"
