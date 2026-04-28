@@ -339,15 +339,9 @@ sections:
       welfare costs of inflation is wrong and its implications for the optimal inflation
       rate need to be reassessed. We also find that (nonsale) prices have not become
       more flexible over the past 40 years.
-    links:
-    - text: Appendix
-      url: "/papers/costsinflationAppendix.pdf"
-    - text: Slides
-      url: "/papers/oldcpi.pdf"
-    - text: ELI Concordance
-      url: "/papers/ELIconcordance.xls"
-    - text: Replication Material
-      url: "/papers/OldCPIReplication.zip"
+    resources:
+      - type: note
+        text: "[Appendix](/papers/costsinflationAppendix.pdf) -- [Slides](/papers/oldcpi.pdf) -- [ELI Concordance](/papers/ELIconcordance.xls) -- [Replication Files](/papers/OldCPIReplication.zip)"
   - id: 33
     title: 'High Frequency Identification of Monetary Non-Neutrality: The Information Effect'
     pdflink: "/papers/realrate.pdf"
