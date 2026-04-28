@@ -298,8 +298,8 @@ sections:
       [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
     book: "*NBER Macroeconomics Annual 2020*, 175-223."
     resources:
-      type: note
-      text: "[Appendix](/papers/OnlineAppendix_WhatDoWeLearn.pdf) -- [Replication Files](/papers/PEtoGE_Replication.zip)"
+      - type: note
+        text: "[Appendix](/papers/OnlineAppendix_WhatDoWeLearn.pdf) -- [Replication Files](/papers/PEtoGE_Replication.zip)"
   - id: 35
     title: New Evidence on the Cyclicality of Employer-to-Employer Flows from Canada
     pdflink: "/papers/cwfpp.pdf"
