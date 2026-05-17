@@ -133,7 +133,7 @@ sections:
       with downward nominal wage rigidity and show how it can fit the plucking property.
     resources:
       - type: note
-        text: "[Code to Date Peaks and Troughs](/papers/findpeaksandtroughs.m)  -- [Appendix](/papers/plucking_appendix.pdf)  -- [Replication Package](/papers/pluckingReplication.zip)"
+        text: "[Code to Date Peaks and Troughs](/papers/findpeaksandtroughs.m)  -- [Appendix](/papers/PluckingAppendix.pdf)  -- [Replication Package](/papers/pluckingReplication.zip)"
   - id: 42
     title: When Did Growth Begin? New Estimates of Productivity Growth in England from 1250 to 1870
     pdflink: "/papers/malthus.pdf"
