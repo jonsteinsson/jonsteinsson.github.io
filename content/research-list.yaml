@@ -283,13 +283,9 @@ sections:
       of the aggregate housing wealth elasticity; second, a rightward shift in the LTV distribution increases not
       only the number of highly sensitive constrained agents but also the number of underwater agents whose
       consumption is insensitive to house prices.
-    links:
-    - text: Local House Price Sensitivity Estimates
-      url: "/papers/gmns_gammas.zip"
-    - text: Online Appendix
-      url: "/papers/LongViewOnlineAppendix.pdf"
-    - text: Replication Files
-      url: https://drive.google.com/file/d/1TpzhYr0-O9nCMOxGa9xG7ug-NDVLyq6Q/view?usp=sharing
+    resources:
+      - type: note
+      - text: "[Appendix](/papers/LongViewOnlineAppendix.pdf)  -- [Replication Package](https://drive.google.com/file/d/1TpzhYr0-O9nCMOxGa9xG7ug-NDVLyq6Q/view?usp=sharing) -- [Local House Price Sensitivity Estimates](/papers/gmns_gammas.zip)"
   - id: 36
     title: What Do We Learn From Cross-Regional Empirical Estimates in Macroeconomics
     pdflink: "/papers/PEtoGE.pdf"
