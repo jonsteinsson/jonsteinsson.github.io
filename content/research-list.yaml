@@ -70,13 +70,9 @@ sections:
     pdflink: "/papers/macroempirics.pdf"
     coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
     book: "*Journal of Economic Perspectives*, 32(3), 59-86, Summer 2018."
-    links:
-    - text: Slides
-      url: "/papers/idmacro_slides.pdf"
-    - text: Appendix
-      url: "/papers/macroempiricsAppendix.pdf"
-    - text: Replication Material
-      url: "/papers/ReplicationIdMacro.zip"
+    resources:
+      - type: note
+        text: "[Appendix](/papers/macroempiricsAppendix.pdf) -- [Replication Material](/papers/ReplicationIdMacro.zip) -- [Slides](/papers/idmacro_slides.pdf)"
   - id: 45
     title: 'Price Rigidity: Microeconomic Evidence and Macroeconomic Implications'
     pdflink: "/papers/psurvey.pdf"
@@ -135,13 +131,9 @@ sections:
       In addition, business cycles last seven years on average and unemployment rises much faster
       during recessions than it falls during expansions. We augment a standard labor search model
       with downward nominal wage rigidity and show how it can fit the plucking property.
-    links:
-    - text: Code to Date Peaks and Troughs
-      url: "/papers/findpeaksandtroughs.m"
-    - text: Replication Package
-      url: "/papers/pluckingReplication.zip"
-    - text: Appendix
-      url: "/papers/PluckingAppendix.pdf"
+    resources:
+      - type: note
+        text: "[Code to Date Peaks and Troughs](/papers/findpeaksandtroughs.m)  -- [Appendix](/papers/plucking_appendix.pdf)  -- [Replication Package](/papers/pluckingReplication.zip)"
   - id: 42
     title: When Did Growth Begin? New Estimates of Productivity Growth in England from 1250 to 1870
     pdflink: "/papers/malthus.pdf"
