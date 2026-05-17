@@ -200,11 +200,9 @@ sections:
       across US states, and find that it is small. Through the lens of a general equilibrium model with home production, we show this statistic
       implies that 60-75 percent of the slowdown in recent business cycle
       recoveries can be explained by female convergence.
-    links:
-    - text: Appendix
-      url: "/papers/femalelabor_Appendix.pdf"
-    - text: Replication Package
-      url: https://www.openicpsr.org/openicpsr/project/149321/version/V1/view
+    resources:
+      - type: note
+        text: "[Appendix](/papers/femalelabor_Appendix.pdf)  -- [Replication Package](https://www.openicpsr.org/openicpsr/project/149321/version/V1/view)"
   - id: 39
     title: 'The Slope of the Phillips Curve: Evidence from U.S. States'
     pdflink: "/papers/StateLevelCPIs.pdf"
