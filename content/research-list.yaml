@@ -161,13 +161,9 @@ sections:
       real wages. Yet feedback from population growth to real wages is sufficiently weak
       to permit sustained deviations from the “iron law of wages” prior to the Industrial
       Revolution.
-    links:
-    - text: Estimates
-      url: "/papers/bns_estimates.xlsx"
-    - text: Appendix
-      url: "/papers/malthusAppendix.pdf"
-    - text: Replication Package
-      url: "/papers/bns_replication.zip"
+    resources:
+      - type: note
+        text: "[Estimates](/papers/bns_estimates.xlsx)  -- [Appendix](/papers/malthus_appendix.pdf)  -- [Replication Package](/papers/bns_replication.zip)"
   - id: 41
     title: Learning About the Long Run
     pdflink: "/papers/learning.pdf"
@@ -182,11 +178,9 @@ sections:
       can generate all the prominent aggregate anomalies emphasized in
       the literature. We show this for professional forecasts of nominal interest rates and Congressional Budget Office forecasts of gross domestic
       product growth. Our learning model for interest rates can explain observed deviations from the expectations hypothesis of the term structure without relying on time variation in risk premia.
-    links:
-    - text: Appendix
-      url: "/papers/learning_appendix.pdf"
-    - text: Replication Package
-      url: https://drive.google.com/file/d/1vI0Z1wt_Ng7wieIbzTf5qEUI0N3dv4fY/view?usp=sharing
+    resources:
+      - type: note
+        text: "[Appendix](/papers/learning_appendix.pdf)  -- [Replication Package](https://drive.google.com/file/d/1vI0Z1wt_Ng7wieIbzTf5qEUI0N3dv4fY/view?usp=sharing)"
   - id: 40
     title: Women, Wealth Effects, and Slow Recoveries
     pdflink: "/papers/femalelabor.pdf"
