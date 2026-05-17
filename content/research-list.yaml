@@ -253,13 +253,9 @@ sections:
       a relatively high income town. We interpret our findings as evidence of the importance of comparative
       advantage: the gains to moving may be very large for those badly matched to the location they happened
       to be born in, even if differences in average income are small.
-    links:
-    - text: Appendix
-      url: "/papers/appendix_giftofmoving.pdf"
-    - text: Replication Files
-      url: "/papers/Gift_of_Moving_Replication.zip"
-    - text: Slides
-      url: "/papers/Westman_slides.pdf"
+    resources:
+      - type: note
+        text: "[Appendix](/papers/appendix_giftofmoving.pdf)  -- [Replication Package](/papers/Gift_of_Moving_Replication.zip) -- [Slides](/papers/Westman_slides.pdf)"
   - id: 37
     title: 'Housing Wealth Effects: The Long View'
     pdflink: "/papers/longview.pdf"
@@ -285,7 +281,7 @@ sections:
       consumption is insensitive to house prices.
     resources:
       - type: note
-      - text: "[Appendix](/papers/LongViewOnlineAppendix.pdf)  -- [Replication Package](https://drive.google.com/file/d/1TpzhYr0-O9nCMOxGa9xG7ug-NDVLyq6Q/view?usp=sharing) -- [Local House Price Sensitivity Estimates](/papers/gmns_gammas.zip)"
+        text: "[Appendix](/papers/LongViewOnlineAppendix.pdf)  -- [Replication Package](https://drive.google.com/file/d/1TpzhYr0-O9nCMOxGa9xG7ug-NDVLyq6Q/view?usp=sharing) -- [Local House Price Sensitivity Estimates](/papers/gmns_gammas.zip)"
   - id: 36
     title: What Do We Learn From Cross-Regional Empirical Estimates in Macroeconomics
     pdflink: "/papers/PEtoGE.pdf"
