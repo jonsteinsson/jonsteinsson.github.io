@@ -225,15 +225,9 @@ sections:
       shifting expectations about long-run monetary policy as opposed to a steep Phillips
       curve, and the greater stability of inflation between 1990 and 2020 is mostly due
       to long-run inflation expectations becoming more firmly anchored. 
-    links:
-    - text: Appendix
-      url: "/papers/StateLevelCPIs_Appendix.pdf"
-    - text: State Level CPI Data (BETA)
-      url: "/papers/statecpi_beta.csv"
-    - text: ReadMe for State Level CPIs
-      url: "/papers/StateCPIData_readme.pdf"
-    - text: Replication Package
-      url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OQNZYE
+    resources:
+      - type: note
+        text: "[Appendix](/papers/StateLevelCPIs_Appendix.pdf)  -- [State Level CPI Data (BETA)](/papers/statecpi_beta.csv) -- [ReadMe for State Level CPIs](/papers/StateCPIData_readme.pdf) -- [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OQNZYE)"
   - id: 38
     title: 'The Gift of Moving: Intergenerational Consequences of a Mobility Shock'
     pdflink: "/papers/giftofmoving.pdf"
