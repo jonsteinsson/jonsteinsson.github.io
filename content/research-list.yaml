@@ -111,9 +111,9 @@ sections:
       deviations lower the costs of borrowing from abroad and stimulate the economy,
       as in the data. The model is consistent with (unconditional) exchange rate disconnect and the Mussa fact, even though exchange rates have large effects on the
       economy. 
-    links:
-    - text: Replication Package
-      url: https://drive.google.com/file/d/1HZA4dc1pHSTlSo3Y49Sl56XD_57fl2tR/view?usp=sharing
+    resources:
+      - type: note
+        text: "[Replication Package](https://drive.google.com/file/d/1HZA4dc1pHSTlSo3Y49Sl56XD_57fl2tR/view?usp=sharing) -- [Erratum](/papers/trilemmaErratum.pdf)"
   - id: 43
     title: A Plucking Model of Business Cycles
     pdflink: "/papers/plucking.pdf"
