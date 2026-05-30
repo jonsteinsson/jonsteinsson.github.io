@@ -8,7 +8,7 @@ Welcome to my website. I am the Marek Professor of Public Policy and Economics a
 
 My main area of research is empirical macroeconomics with a focus on monetary economics and business cycles. 
 
-I teach Intermediate Macroeconomics at the undergraduate level (Econ 101B) and co-teach the fall semester of the first-year macroeconomics sequence in our PhD program (Econ 202A). I am writing a textbook on Intermediate Macroeconomics. Seven chapters of this book are avaiable under [teaching](teaching) as well as all my undergraduate and graduate lecture slides. I hope you find these useful. 
+I teach Intermediate Macroeconomics at the undergraduate level (Econ 101B) and co-teach the fall semester of the first-year macroeconomics sequence in our PhD program (Econ 202A). I am writing a textbook on Intermediate Macroeconomics. Eight chapters of this book are avaiable under [teaching](teaching) as well as all my undergraduate and graduate lecture slides. I hope you find these useful. 
 
 University of California, Berkeley  
 Department of Economics  
