@@ -113,7 +113,7 @@ sections:
       economy. 
     resources:
       - type: note
-        text: "[Replication Package](https://drive.google.com/file/d/1HZA4dc1pHSTlSo3Y49Sl56XD_57fl2tR/view?usp=sharing) -- [Erratum](/papers/ErratumTrilemma.pdf)"
+        text: "[Appendix](/papers/AppendixTrilemma.pdf) -- [Replication Package](https://drive.google.com/file/d/1HZA4dc1pHSTlSo3Y49Sl56XD_57fl2tR/view?usp=sharing) -- [Erratum](/papers/ErratumTrilemma.pdf)"
   - id: 43
     title: A Plucking Model of Business Cycles
     pdflink: "/papers/plucking.pdf"
