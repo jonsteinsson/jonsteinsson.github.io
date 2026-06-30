@@ -155,7 +155,7 @@ sections:
       Revolution.
     resources:
       - type: note
-        text: "[Estimates](/papers/bns_estimates.xlsx)  -- [Appendix](/papers/malthus_appendix.pdf)  -- [Replication Package](/papers/bns_replication.zip)"
+        text: "[Estimates](/papers/bns_estimates.xlsx)  -- [Appendix](/papers/malthus_appendix.pdf)  -- [Replication Package](/papers/bns_replication.zip) -- [Erratum](/papers/ErratumMalthus.pdf)"
   - id: 41
     title: Learning About the Long Run
     pdflink: "/papers/learning.pdf"
