@@ -9,7 +9,7 @@ sections:
     coauthors: >-
       with [Masao Fukui](https://masaofukui.com) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
     abstract: >-
-      Technical change often simplifies jobs. This increases productivity, but it also makes workers more substitutable---or more "commoditized". Commoditization of labor drives down worker bargaining power: anyone can do the job, implying workers are disposable, which improves the outside option of firms and can lower worker wages. We develop a model that captures both the productivity enhancing and wage depressing effects of commoditizing technical change. Commoditizing technical change involves firms standardizing tasks which implies that output is less sensitive to worker quality. Firms benefit because they can more easily fill vacancies for their durable jobs. We show that our model can help explain the divergence between productivity and wages in the service sector, increasing wage markdowns despite falling local concentration, and the decline of the large-firm wage premium. 
+      Technical change often simplifies jobs. This increases productivity, but it also makes workers more substitutable---or more "commoditized." Commoditization of labor drives down worker bargaining power: anyone can do the job, implying workers are disposable, which improves the outside option of firms and can lower worker wages. We develop a model that captures both the productivity enhancing and wage depressing effects of commoditizing technical change. Commoditizing technical change involves firms standardizing tasks. This reduces the sensitivity of output to worker quality. Firms benefit because they can more easily fill vacancies for their durable jobs. We show that our model can help explain the divergence between productivity and wages in the service sector, increasing wage markdowns despite falling local concentration, and the decline of the large-firm wage premium. 
   - id: 49
     title: 'Disentangling Age, Time, and Cohort Effects in Income Inequality: A Proxy Machine Learning
       Approach'
@@ -17,12 +17,7 @@ sections:
     coauthors: >-
       with [David Bruns-Smith](https://brunssmith.com//) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
     abstract: >-
-      A canonical finding from earlier research is that the cross-sectional variance of income increases sharply with age (Deaton and Paxson, 1994). However, the trend in this age profile is
-      not separately identified from time and cohort trends. Conventional methods solve this identification problem by ruling out “time effects.” This strong assumption is rejected by the data.
-      We propose a new proxy variable machine learning approach to disentangle age, time and
-      cohort effects. Using this method, we estimate a significantly smaller slope of the age profile
-      of income variance for the US than conventional methods, as well as less erratic slopes for 11
-      other countries.
+      Two key facts economists have emphasized about the lifecycle income process are rapid growth of inequality and the average level of income over the lifecycle. However, empirical estimates of these facts are plagued by the difficulty of distinguishing between age, time, and cohort trends. Foundational work on the lifecycle profile of income inequality assumes that "time effects" are zero (Deaton and Paxson, 1994). But this strong assumption is rejected by the data. We propose a new proxy variable machine learning approach to the age-time-cohort problem. For the variance of income over the lifecycle, our method yields both a significantly smaller slope of the age profile for the U.S., and much less erratic age profiles for 11 other countries. For the average level of income over the life cycle, our method yields a larger slope for the U.S., and confirms earlier estimates showing that the slope of the income profile increases with economic development.
   - id: 48
     title: Beyond the Taylor Rule
     pdflink: "/papers/Taylor_Rule.pdf"
